@@ -663,7 +663,7 @@ export default function EXIMPage() {
             {[
               { icon: "🌐", title: "Reach Global Buyers", desc: "Access decision-makers and procurement teams in 100+ countries who are actively searching for your products right now." },
               { icon: "📩", title: "Generate RFQs Consistently", desc: "Move beyond sporadic inquiries. Build a predictable pipeline of qualified Request For Quotations every month." },
-              { icon: "🚫", title: "Reduce Trade Fair Dependency", desc: "Trade fairs cost lakhs and deliver seasonal results. Digital marketing works 365 days a year at a fraction of the cost." },
+              { icon: "🏢", title: "Enhanced Trade Fair Dependency", desc: "Reduce trade fair dependency with year-round digital marketing that generates consistent global leads." },
               { icon: "🏆", title: "Build International Authority", desc: "Position your brand as a trusted global supplier through content, SEO, and thought leadership that converts." },
             ].map((card) => (
               <motion.div key={card.title} variants={fadeUp}
