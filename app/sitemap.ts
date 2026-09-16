@@ -12,7 +12,7 @@ const baseUrl = "https://www.prosira.in";
       priority: 1,
     },
     {
-      url: `${baseUrl}/about-prosira-advertisers`,
+      url: `${baseUrl}/about-prosira-adtech`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,

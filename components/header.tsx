@@ -9,7 +9,7 @@ import { usePathname } from "next/navigation";
 import Image from "next/image";
 
 const navigation = [
-  { name: "About Us", href: "/about-prosira-advertisers" },
+  { name: "About Us", href: "/about-prosira-adtech" },
   { name: "Services", href: "/advertising-services" },
   { name: "Digital", href: "/digital-marketing" },
   { name: "Exim", href: "/exim" },

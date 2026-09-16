@@ -230,7 +230,7 @@ export function WhyChooseUs() {
             size="lg"
             className="bg-primary text-primary-foreground hover:bg-primary/90 h-12 px-12 group"
           >
-            <Link href="/about-prosira-advertisers">
+            <Link href="/about-prosira-adtech">
               Learn More About Us
               <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </Link>

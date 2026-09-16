@@ -152,7 +152,7 @@ export function HeroSection() {
               Get Started <ArrowRight size={18} />
             </Link>
             <Link
-              href="/about-prosira-advertisers"
+              href="/about-prosira-adtech"
               className="inline-flex items-center gap-2 border border-white/30 px-8 md:px-12 py-3 rounded-lg hover:bg-white/10 transition"
             >
               <Play size={18} />

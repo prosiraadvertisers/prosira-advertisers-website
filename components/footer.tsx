@@ -23,7 +23,7 @@ const footerLinks = {
 { name: "Download Portfolio", href: "/portfolio/prosira-advertisers-company-profile.pdf", download: true },
   ],
   company: [
-    { name: "About Us", href: "/about-prosira-advertisers" },
+    { name: "About Us", href: "/about-prosira-adtech" },
     { name: "Our Team", href: "/team" },
     { name: "Our Work", href: "/work" },
     { name: "Contact", href: "/contact" },
