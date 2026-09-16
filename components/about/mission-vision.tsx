@@ -129,7 +129,7 @@ export function MissionVision() {
               </div>
 
               <p className="text-muted-foreground leading-relaxed">
-                To become a leading media planning and buying agency known for innovative advertising solutions, transparent media investments, and measurable brand growth.
+                To become a leading media planning & buying agency known for innovative advertising solutions, transparent media investments, and measurable brand growth.
               </p>
             </CardContent>
           </Card>
