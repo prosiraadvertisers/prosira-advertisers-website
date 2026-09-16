@@ -71,15 +71,10 @@ export function AboutContent() {
               </h3>
 
               <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-                Founded by industry professionals Shashikantt Paanchal and Vijayant Saini,
-                we are a data-driven media planning and buying agency helping brands
-                achieve measurable growth across India and global markets.
+                <strong>Prosira Adtech Pvt. Ltd., formerly known as Great Media, is a next-generation, data-driven media planning and buying company founded by Sshashikant Paanchal and Vijayant Saini.</strong> We empower brands with intelligent media strategies, precision audience targeting, and seamless execution across India and global markets—helping businesses build visibility, strengthen market presence, and achieve measurable growth with optimized media investments and meaningful ROI.
               </p>
 
-              <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                We combine strategic thinking, media intelligence, and execution excellence
-                to ensure brands reach the right audience with maximum efficiency and ROI.
-              </p>
+               
 
               {/* What We Do */}
               <h3 className="inline-flex items-center gap-2 px-6 py-1.5 mb-3 rounded-full border border-primary/30 bg-primary/10 text-xs md:text-sm font-medium text-primary shadow-[0_0_14px_rgba(212,175,55,0.15)]">
