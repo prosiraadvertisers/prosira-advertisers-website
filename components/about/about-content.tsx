@@ -166,7 +166,7 @@ export function AboutContent() {
               <span className="font-semibold text-foreground">
                 Measurable Outcomes & Reporting —
               </span>{" "}
-              Every campaign aligns with clear business objectives, supported by transparent reporting and measurable ROI tracking.
+              Every campaign aligns with clear business objectives, supported by transparent reporting & measurable ROI tracking.
             </p>
           </div>
 
