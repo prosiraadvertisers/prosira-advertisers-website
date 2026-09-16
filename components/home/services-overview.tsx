@@ -279,7 +279,7 @@ export function ServicesOverview() {
           >
             advertising agency in Pune
           </Link>
-          ? Explore how Prosira Advertisers helps brands grow locally.
+          ? Explore how Prosira Adtech Pvt. Ltd. helps brands grow locally.
         </p>
       </div>
     </section>

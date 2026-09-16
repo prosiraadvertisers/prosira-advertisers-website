@@ -2,14 +2,14 @@ import { Metadata } from "next";
 import EximClientLoader from "./EximClientLoader";
 
 export const metadata: Metadata = {
-  title: "EXIM Digital Marketing Services | Import Export Lead Generation | Prosira Advertisers",
+  title: "EXIM Digital Marketing Services | Import Export Lead Generation | Prosira Adtech Pvt. Ltd.",
   description:
-    "Grow your import export business with international SEO, Google Ads, LinkedIn lead generation, and B2B digital marketing. Generate verified global leads with Prosira Advertisers.",
+    "Grow your import export business with international SEO, Google Ads, LinkedIn lead generation, and B2B digital marketing. Generate verified global leads with Prosira Adtech Pvt. Ltd..",
   openGraph: {
     title:
-      "EXIM Digital Marketing Services | Import Export Lead Generation | Prosira Advertisers",
+      "EXIM Digital Marketing Services | Import Export Lead Generation | Prosira Adtech Pvt. Ltd.",
     description:
-      "Grow your import export business with international SEO, Google Ads, LinkedIn lead generation, and B2B digital marketing. Generate verified global leads with Prosira Advertisers.",
+      "Grow your import export business with international SEO, Google Ads, LinkedIn lead generation, and B2B digital marketing. Generate verified global leads with Prosira Adtech Pvt. Ltd..",
   },
 };
 
@@ -19,7 +19,7 @@ const jsonLd = {
     {
       "@type": "Organization",
       "@id": "https://prosira.in/#organization",
-      "name": "Prosira Advertisers",
+      "name": "Prosira Adtech Pvt. Ltd.",
       "url": "https://prosira.in/",
       "logo": "https://prosira.in/logo.webp",
       "sameAs": [],

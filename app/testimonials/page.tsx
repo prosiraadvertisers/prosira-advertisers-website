@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Client Testimonials | Prosira Advertisers",
+  title: "Client Testimonials | Prosira Adtech Pvt. Ltd.",
   description:
-    "Watch real client testimonials and success stories from Prosira Advertisers.",
+    "Watch real client testimonials and success stories from Prosira Adtech Pvt. Ltd..",
 };
 
 const testimonials = [

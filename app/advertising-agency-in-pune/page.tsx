@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Advertising Agency in Pune | Prosira Advertisers",
+  title: "Advertising Agency in Pune | Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers is a trusted advertising agency in Pune offering TV, radio, outdoor hoardings, digital marketing, branding, and event solutions for businesses across Pune.",
+    "Prosira Adtech Pvt. Ltd. is a trusted advertising agency in Pune offering TV, radio, outdoor hoardings, digital marketing, branding, and event solutions for businesses across Pune.",
   alternates: {
     canonical: "/advertising-agency-in-pune",
   },
   openGraph: {
-    title: "Advertising Agency in Pune | Prosira Advertisers",
+    title: "Advertising Agency in Pune | Prosira Adtech Pvt. Ltd.",
     description:
       "Full-service advertising agency in Pune providing TV, radio, outdoor, digital marketing and branding solutions.",
     url: "/advertising-agency-in-pune",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Advertising Agency in Pune | Prosira Advertisers",
+    title: "Advertising Agency in Pune | Prosira Adtech Pvt. Ltd.",
     description:
       "Trusted advertising agency in Pune delivering strategic and performance-driven campaigns.",
   },
@@ -33,7 +33,7 @@ export default function AdvertisingAgencyPunePage() {
         </h1>
 
         <p className="text-lg text-muted-foreground max-w-3xl mb-10">
-          Prosira Advertisers is a full-service advertising agency in Pune,
+          Prosira Adtech Pvt. Ltd. is a full-service advertising agency in Pune,
           helping brands grow through strategic media planning, creative
           campaigns, outdoor hoardings, digital marketing, and event promotions.
           With deep local market knowledge, we deliver measurable results for
@@ -54,7 +54,7 @@ export default function AdvertisingAgencyPunePage() {
         </ul>
 
         <h2 className="text-3xl font-semibold mb-6">
-          Why Choose Prosira Advertisers in Pune?
+          Why Choose Prosira Adtech Pvt. Ltd. in Pune?
         </h2>
 
         <p className="text-muted-foreground max-w-3xl mb-10">
@@ -69,7 +69,7 @@ export default function AdvertisingAgencyPunePage() {
         </h2>
 
         <p className="text-muted-foreground max-w-3xl mb-12">
-          From startups to established brands, Prosira Advertisers has executed
+          From startups to established brands, Prosira Adtech Pvt. Ltd. has executed
           over 2000 successful campaigns across Pune. Our local presence,
           transparent processes, and performance-driven approach make us a
           reliable advertising partner.
@@ -93,7 +93,7 @@ export default function AdvertisingAgencyPunePage() {
             {
               "@context": "https://schema.org",
               "@type": "AdvertisingAgency",
-              "name": "Prosira Advertisers",
+              "name": "Prosira Adtech Pvt. Ltd.",
               "url": "https://prosira.in/advertising-agency-in-pune",
               "telephone": "+91-9028815714",
               "address": {

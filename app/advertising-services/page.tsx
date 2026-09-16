@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "hoarding advertising Pune",
   ],
   openGraph: {
-    title: "Advertising Services - Prosira Advertisers",
+    title: "Advertising Services - Prosira Adtech Pvt. Ltd.",
     description:
       "TV, Radio, Outdoor, Print, Cinema advertising and more. Full-service traditional media solutions in Pune.",
     url: "https://prosira.in/traditional-services",

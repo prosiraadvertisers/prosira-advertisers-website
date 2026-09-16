@@ -14,7 +14,7 @@ export function HomepageSEOSection() {
 
         {/* INTRO */}
         <p className="text-muted-foreground leading-relaxed mb-6">
-          Prosira Advertisers is a full-service <strong>advertising agency in Pune</strong> 
+          Prosira Adtech Pvt. Ltd. is a full-service <strong>advertising agency in Pune</strong> 
           specializing in strategic media planning, media buying, digital performance marketing, 
           and integrated brand campaigns. We help businesses grow through a powerful mix of 
           traditional media, digital advertising, and data-driven execution.
@@ -57,7 +57,7 @@ export function HomepageSEOSection() {
         </h3>
 
         <p className="text-muted-foreground leading-relaxed mb-6">
-          With over a decade of industry experience, Prosira Advertisers has built 
+          With over a decade of industry experience, Prosira Adtech Pvt. Ltd. has built 
           strong media relationships across leading TV channels, FM stations, 
           print publications, outdoor networks, and digital platforms. Our transparent 
           reporting systems and performance dashboards allow clients to track campaign 
@@ -68,7 +68,7 @@ export function HomepageSEOSection() {
         <p className="text-muted-foreground leading-relaxed">
           If you are searching for a reliable, result-driven advertising agency in Pune 
           that combines creative excellence with smart media buying and digital expertise, 
-          Prosira Advertisers is your strategic growth partner.
+          Prosira Adtech Pvt. Ltd. is your strategic growth partner.
         </p>
 
       </div>

@@ -3,7 +3,7 @@ import Link from "next/link";
 export const metadata = {
   title: "AI SEO, Advertising & Digital Marketing Insights | Prosira Blog",
   description:
-    "Explore AI SEO, digital marketing, branding, Google Ads, SEO, media planning and future search insights from Prosira Advertisers.",
+    "Explore AI SEO, digital marketing, branding, Google Ads, SEO, media planning and future search insights from Prosira Adtech Pvt. Ltd..",
   keywords: [
     "AI SEO India",
     "advertising blog",
@@ -13,7 +13,7 @@ export const metadata = {
     "AI search optimization",
     "branding strategies",
     "local SEO India",
-    "Prosira Advertisers",
+    "Prosira Adtech Pvt. Ltd.",
   ],
 };
 
@@ -102,7 +102,7 @@ export default function BlogPage() {
         <p className="text-muted-foreground text-base md:text-lg leading-relaxed">
           Explore AI SEO, digital marketing, branding, advertising,
           Google Ads, media planning, local SEO and future search
-          strategies from Prosira Advertisers.
+          strategies from Prosira Adtech Pvt. Ltd..
         </p>
 
       </div>

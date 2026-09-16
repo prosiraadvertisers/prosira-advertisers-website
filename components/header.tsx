@@ -91,7 +91,7 @@ export function Header() {
           <div className="relative flex items-center">
             <Image
               src="/logo.webp"
-              alt="Prosira Advertisers Logo"
+              alt="Prosira Adtech Pvt. Ltd. Logo"
               width={140}
               height={50}
               priority

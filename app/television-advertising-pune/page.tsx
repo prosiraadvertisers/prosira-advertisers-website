@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Television Advertising in Pune | TV Commercials – Prosira Advertisers",
+  title: "Television Advertising in Pune | TV Commercials – Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers provides television advertising in Pune with strategic TV media planning, ad production, and premium channel placements.",
+    "Prosira Adtech Pvt. Ltd. provides television advertising in Pune with strategic TV media planning, ad production, and premium channel placements.",
 };
 
 export default function TelevisionAdvertisingPunePage() {

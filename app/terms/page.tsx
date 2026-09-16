@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Terms of Service | Prosira Advertisers",
+  title: "Terms of Service | Prosira Adtech Pvt. Ltd.",
   description:
-    "Read the terms and conditions governing the use of Prosira Advertisers' website, services, and digital marketing solutions.",
+    "Read the terms and conditions governing the use of Prosira Adtech Pvt. Ltd.' website, services, and digital marketing solutions.",
 };
 
 export default function TermsPage() {
@@ -19,7 +19,7 @@ export default function TermsPage() {
 
         <p>
           These Terms of Service (“Terms”) govern your access to and use of the
-          Prosira Advertisers website and services. By accessing or using our
+          Prosira Adtech Pvt. Ltd. website and services. By accessing or using our
           website, you agree to be bound by these Terms and all applicable laws
           and regulations.
         </p>
@@ -40,7 +40,7 @@ export default function TermsPage() {
             2. Services
           </h2>
           <p>
-            Prosira Advertisers provides advertising, digital marketing, brand
+            Prosira Adtech Pvt. Ltd. provides advertising, digital marketing, brand
             strategy, and related services. Service details, pricing, timelines,
             and deliverables may be defined through proposals, agreements, or
             communications.
@@ -76,7 +76,7 @@ export default function TermsPage() {
           </h2>
           <p>
             Any information, content, or materials submitted by you through the
-            website may be used by Prosira Advertisers for service delivery,
+            website may be used by Prosira Adtech Pvt. Ltd. for service delivery,
             communication, and internal business purposes, subject to our
             Privacy Policy.
           </p>
@@ -87,7 +87,7 @@ export default function TermsPage() {
             6. Limitation of Liability
           </h2>
           <p>
-            Prosira Advertisers shall not be liable for any direct, indirect,
+            Prosira Adtech Pvt. Ltd. shall not be liable for any direct, indirect,
             incidental, or consequential damages arising from your use or
             inability to use the website or services, to the maximum extent
             permitted by law.
@@ -121,7 +121,7 @@ export default function TermsPage() {
             9. Changes to Terms
           </h2>
           <p>
-            Prosira Advertisers may update these Terms at any time. Continued
+            Prosira Adtech Pvt. Ltd. may update these Terms at any time. Continued
             use of the website after changes are posted constitutes acceptance
             of the revised Terms.
           </p>

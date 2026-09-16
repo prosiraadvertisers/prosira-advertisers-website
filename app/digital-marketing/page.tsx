@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "content strategy",
   ],
   openGraph: {
-    title: "Digital Marketing Services - Prosira Advertisers",
+    title: "Digital Marketing Services - Prosira Adtech Pvt. Ltd.",
     description:
       "Data-driven digital marketing solutions including Google Ads, SEO, social media, and performance marketing in Pune.",
     url: "https://prosira.in/advertising-services",

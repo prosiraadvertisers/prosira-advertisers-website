@@ -3,16 +3,16 @@ import Script from "next/script";
 import { Footer } from "@/components/footer";
 
 export const metadata: Metadata = {
-  title: "FAQs | Prosira Advertisers",
+  title: "FAQs | Prosira Adtech Pvt. Ltd.",
   description:
-    "Frequently asked questions about branding, digital marketing, SEO, website development, advertising campaigns, and marketing services by Prosira Advertisers.",
+    "Frequently asked questions about branding, digital marketing, SEO, website development, advertising campaigns, and marketing services by Prosira Adtech Pvt. Ltd..",
 };
 
 const faqs = [
   {
-    question: "What services does Prosira Advertisers offer?",
+    question: "What services does Prosira Adtech Pvt. Ltd. offer?",
     answer:
-      "Prosira Advertisers provides branding, SEO, AI SEO, website development, performance marketing, social media marketing, hoarding advertising, lead generation, and digital marketing services.",
+      "Prosira Adtech Pvt. Ltd. provides branding, SEO, AI SEO, website development, performance marketing, social media marketing, hoarding advertising, lead generation, and digital marketing services.",
   },
   {
     question: "Do you provide SEO services in Pune?",
@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "Can you build mobile-friendly websites?",
     answer:
-      "Yes. All websites developed by Prosira Advertisers are mobile-friendly, SEO-optimized, fast-loading, and responsive across devices.",
+      "Yes. All websites developed by Prosira Adtech Pvt. Ltd. are mobile-friendly, SEO-optimized, fast-loading, and responsive across devices.",
   },
   {
     question: "Do you provide Google Ads and Meta Ads services?",
@@ -40,7 +40,7 @@ const faqs = [
       "Yes. We provide website maintenance, speed optimization, technical fixes, security updates, and SEO monitoring services.",
   },
   {
-    question: "Can startups work with Prosira Advertisers?",
+    question: "Can startups work with Prosira Adtech Pvt. Ltd.?",
     answer:
       "Yes. We work with startups, local businesses, personal brands, and growing companies.",
   },

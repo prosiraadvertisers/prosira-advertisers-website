@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Event Management Company in Pune | Brand Events – Prosira Advertisers",
+  title: "Event Management Company in Pune | Brand Events – Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers is a professional event management company in Pune offering corporate events, product launches, exhibitions, and brand activations.",
+    "Prosira Adtech Pvt. Ltd. is a professional event management company in Pune offering corporate events, product launches, exhibitions, and brand activations.",
 };
 
 export default function EventManagementPunePage() {

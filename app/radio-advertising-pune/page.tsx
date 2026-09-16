@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Radio Advertising in Pune | FM Radio Ads – Prosira Advertisers",
+  title: "Radio Advertising in Pune | FM Radio Ads – Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers offers effective radio advertising in Pune with creative jingles, media planning, and FM radio campaign execution.",
+    "Prosira Adtech Pvt. Ltd. offers effective radio advertising in Pune with creative jingles, media planning, and FM radio campaign execution.",
 };
 
 export default function RadioAdvertisingPunePage() {
@@ -38,7 +38,7 @@ export default function RadioAdvertisingPunePage() {
           "@type": "Service",
           "serviceType": "Radio Advertising",
           "areaServed": { "@type": "City", "name": "Pune" },
-          "provider": { "@type": "AdvertisingAgency", "name": "Prosira Advertisers" }
+          "provider": { "@type": "AdvertisingAgency", "name": "Prosira Adtech Pvt. Ltd." }
         })
       }} />
     </>

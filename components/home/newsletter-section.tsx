@@ -46,7 +46,7 @@ export function NewsletterSection() {
               Successfully Subscribed! ✨
             </h3>
             <p className="text-base sm:text-lg text-muted-foreground">
-              Thank you for joining our newsletter. You'll receive the latest updates and insights from Prosira Advertisers.
+              Thank you for joining our newsletter. You'll receive the latest updates and insights from Prosira Adtech Pvt. Ltd..
             </p>
             <Button 
               onClick={() => setIsSubscribed(false)}

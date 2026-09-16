@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Hoarding Advertising in Pune | Billboard Advertising – Prosira Advertisers",
+  title: "Hoarding Advertising in Pune | Billboard Advertising – Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers provides high-visibility hoarding advertising in Pune with premium billboard locations, strategic planning, and end-to-end execution.",
+    "Prosira Adtech Pvt. Ltd. provides high-visibility hoarding advertising in Pune with premium billboard locations, strategic planning, and end-to-end execution.",
 };
 
 export default function HoardingAdvertisingPunePage() {
@@ -18,7 +18,7 @@ export default function HoardingAdvertisingPunePage() {
 
         {/* Intro */}
         <p className="text-base sm:text-lg text-muted-foreground max-w-3xl mb-10">
-          Prosira Advertisers is a trusted hoarding advertising agency in Pune,
+          Prosira Adtech Pvt. Ltd. is a trusted hoarding advertising agency in Pune,
           offering strategic billboard placements across high-traffic locations.
           Our hoarding campaigns help brands achieve maximum visibility, recall,
           and local market impact.
@@ -40,7 +40,7 @@ export default function HoardingAdvertisingPunePage() {
 
         {/* Why Us */}
         <h2 className="text-2xl sm:text-3xl font-semibold mb-6">
-          Why Choose Prosira Advertisers for Hoarding Advertising?
+          Why Choose Prosira Adtech Pvt. Ltd. for Hoarding Advertising?
         </h2>
 
         <p className="text-muted-foreground max-w-3xl mb-10">
@@ -89,7 +89,7 @@ export default function HoardingAdvertisingPunePage() {
             "serviceType": "Hoarding Advertising",
             "provider": {
               "@type": "AdvertisingAgency",
-              "name": "Prosira Advertisers",
+              "name": "Prosira Adtech Pvt. Ltd.",
               "url": "https://prosira.in"
             },
             "areaServed": {

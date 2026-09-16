@@ -358,7 +358,7 @@ export function DigitalCTA() {
                   Request Submitted Successfully!
                 </h3>
                 <p className="text-[14px] text-white/40 leading-[1.7] max-w-[300px]">
-                  Thank you for contacting Prosira Advertisers. Our team will
+                  Thank you for contacting Prosira Adtech Pvt. Ltd.. Our team will
                   review your requirements and get in touch shortly.
                 </p>
               </div>

@@ -9,7 +9,7 @@ import { FAQ } from "@/components/industries/faq";
 import { CTA } from "@/components/industries/cta";
 
 export const metadata: Metadata = {
-  title: "Industries We Serve | Prosira Advertisers",
+  title: "Industries We Serve | Prosira Adtech Pvt. Ltd.",
   description:
     "Explore industry-focused marketing, SEO, AI SEO, branding, and digital growth solutions for healthcare, builders, restaurants, education, pest control, manufacturing, and more.",
 };

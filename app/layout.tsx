@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   title: {
     default:
       "AI SEO & Digital Marketing Agency in Pune",
-    template: "%s | Prosira Advertisers",
+    template: "%s | Prosira Adtech Pvt. Ltd.",
   },
 
   description:
@@ -62,9 +62,9 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_IN",
     url: "/",
-    siteName: "Prosira Advertisers",
+    siteName: "Prosira Adtech Pvt. Ltd.",
     title:
-      "Prosira Advertisers - Top Digital Marketing & Advertising Agency in Pune",
+      "Prosira Adtech Pvt. Ltd. - Top Digital Marketing & Advertising Agency in Pune",
     description:
       "Trusted Digital Marketing & Advertising Experts in Pune delivering measurable growth.",
     images: [
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
         url: "/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "Prosira Advertisers - Digital Marketing Agency in Pune",
+        alt: "Prosira Adtech Pvt. Ltd. - Digital Marketing Agency in Pune",
       },
     ],
   },
@@ -106,14 +106,14 @@ export default function RootLayout({
 
   "@type": "Organization",
 
-  name: "Prosira Advertisers",
+  name: "Prosira Adtech Pvt. Ltd.",
 
   url: "https://prosira.in",
 
   logo: "https://prosira.in/logo.png",
 
   description:
-    "Prosira Advertisers is an AI-first digital marketing and advertising agency offering AI SEO, GEO, AEO, SEO, Google Ads, branding, website development and performance marketing services.",
+    "Prosira Adtech Pvt. Ltd. is an AI-first digital marketing and advertising agency offering AI SEO, GEO, AEO, SEO, Google Ads, branding, website development and performance marketing services.",
 
   sameAs: [
     "https://www.instagram.com/prosira_advertisers",
@@ -139,7 +139,7 @@ const serviceSchema = {
 
   provider: {
     "@type": "Organization",
-    name: "Prosira Advertisers",
+    name: "Prosira Adtech Pvt. Ltd.",
     url: "https://prosira.in",
   },
 
@@ -151,7 +151,7 @@ const serviceSchema = {
   url: "https://prosira.in/ai-seo-services",
 
   description:
-    "Prosira Advertisers provides AI SEO, GEO, AEO, SEO, Google Ads, branding, website development and digital marketing services.",
+    "Prosira Adtech Pvt. Ltd. provides AI SEO, GEO, AEO, SEO, Google Ads, branding, website development and digital marketing services.",
 };
   return (
     <html
@@ -215,7 +215,7 @@ const serviceSchema = {
               __html: JSON.stringify({
                 "@context": "https://schema.org",
                 "@type": "AdvertisingAgency",
-                name: "Prosira Advertisers",
+                name: "Prosira Adtech Pvt. Ltd.",
                 url: "https://prosira.in",
                 logo: "https://prosira.in/logo.png",
                 image: "https://prosira.in/opengraph-image.png",

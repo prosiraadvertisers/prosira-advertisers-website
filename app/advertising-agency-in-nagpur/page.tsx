@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Advertising Agency in Nagpur | Prosira Advertisers",
+  title: "Advertising Agency in Nagpur | Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers is a reliable advertising agency in Nagpur offering TV, radio, outdoor advertising, digital marketing, branding, and event management services.",
+    "Prosira Adtech Pvt. Ltd. is a reliable advertising agency in Nagpur offering TV, radio, outdoor advertising, digital marketing, branding, and event management services.",
   alternates: {
     canonical: "/advertising-agency-in-nagpur",
   },
   openGraph: {
-    title: "Advertising Agency in Nagpur | Prosira Advertisers",
+    title: "Advertising Agency in Nagpur | Prosira Adtech Pvt. Ltd.",
     description:
       "Reliable advertising agency in Nagpur offering TV, radio, outdoor advertising, digital marketing and branding services.",
     url: "/advertising-agency-in-nagpur",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Advertising Agency in Nagpur | Prosira Advertisers",
+    title: "Advertising Agency in Nagpur | Prosira Adtech Pvt. Ltd.",
     description:
       "Trusted advertising agency in Nagpur delivering strategic and regional advertising campaigns.",
   },
@@ -33,7 +33,7 @@ export default function AdvertisingAgencyNagpurPage() {
         </h1>
 
         <p className="text-lg text-muted-foreground max-w-3xl mb-10">
-          Prosira Advertisers is a trusted advertising agency in Nagpur,
+          Prosira Adtech Pvt. Ltd. is a trusted advertising agency in Nagpur,
           supporting brands with strategic advertising, outdoor hoardings,
           digital marketing, and event promotions across the Vidarbha region.
         </p>
@@ -52,7 +52,7 @@ export default function AdvertisingAgencyNagpurPage() {
         </ul>
 
         <h2 className="text-3xl font-semibold mb-6">
-          Why Choose Prosira Advertisers in Nagpur?
+          Why Choose Prosira Adtech Pvt. Ltd. in Nagpur?
         </h2>
 
         <p className="text-muted-foreground max-w-3xl mb-10">
@@ -88,7 +88,7 @@ export default function AdvertisingAgencyNagpurPage() {
             {
               "@context": "https://schema.org",
               "@type": "AdvertisingAgency",
-              "name": "Prosira Advertisers",
+              "name": "Prosira Adtech Pvt. Ltd.",
               "url": "https://prosira.in/advertising-agency-in-nagpur",
               "telephone": "+91-9028815714",
               "areaServed": {

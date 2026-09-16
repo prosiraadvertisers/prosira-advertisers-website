@@ -6,9 +6,9 @@ import { TeamSection } from "@/components/about/team-section";
 import { AboutCTA } from "@/components/about/about-cta";
 
 export const metadata: Metadata = {
-  title: "About Us | Prosira Advertisers – Advertising Agency in Pune",
+  title: "About Us | Prosira Adtech Pvt. Ltd. – Advertising Agency in Pune",
   description:
-    "Learn about Prosira Advertisers, a leading advertising agency in Pune offering strategic, creative, and performance-driven campaigns across media, events, and branding.",
+    "Learn about Prosira Adtech Pvt. Ltd., a leading advertising agency in Pune offering strategic, creative, and performance-driven campaigns across media, events, and branding.",
   keywords: [
     "advertising agency in Pune",
     "media agency Pune",
@@ -16,9 +16,9 @@ export const metadata: Metadata = {
     "branding agency Pune",
   ],
   openGraph: {
-    title: "About Prosira Advertisers – Advertising Agency in Pune",
+    title: "About Prosira Adtech Pvt. Ltd. – Advertising Agency in Pune",
     description:
-      "Discover Prosira Advertisers, a full-service advertising and media agency delivering impactful campaigns in Pune and Maharashtra.",
+      "Discover Prosira Adtech Pvt. Ltd., a full-service advertising and media agency delivering impactful campaigns in Pune and Maharashtra.",
     url: "https://prosira.in/about-prosira-advertisers",
   },
 };

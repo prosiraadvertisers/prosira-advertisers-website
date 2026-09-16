@@ -117,7 +117,7 @@ export function Footer() {
               </p>
             </div>
 
-            <Link href="/" className="inline-block" aria-label="Prosira Advertisers Home">
+            <Link href="/" className="inline-block" aria-label="Prosira Adtech Pvt. Ltd. Home">
               <div className="flex flex-col">
                 {/* <span className="text-2xl font-bold tracking-tight text-primary font-serif">
                   PROSIRA
@@ -129,7 +129,7 @@ export function Footer() {
             </Link>
 
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Prosira Advertisers is a comprehensive advertising and event company delivering
+              Prosira Adtech Pvt. Ltd. is a comprehensive advertising and event company delivering
               360° media solutions with strategic and creative campaigns.
             </p>
 
@@ -193,7 +193,7 @@ export function Footer() {
               <li>
                 <a
                   href="tel:+919028815714"
-                  aria-label="Call Prosira Advertisers"
+                  aria-label="Call Prosira Adtech Pvt. Ltd."
                   className="flex gap-3 text-sm text-muted-foreground hover:text-yellow-500 hover:underline underline-offset-4 transition-all duration-300 cursor-pointer"
                 >
                   <Phone className="h-4 w-4 text-primary" />
@@ -204,7 +204,7 @@ export function Footer() {
               <li>
                 <a
                   href="mailto:connect@prosira.in"
-                  aria-label="Email Prosira Advertisers"
+                  aria-label="Email Prosira Adtech Pvt. Ltd."
                   className="flex gap-3 text-sm text-muted-foreground hover:text-yellow-500 hover:underline underline-offset-4 transition-all duration-300 cursor-pointer"
                 >
                   <Mail className="h-4 w-4 text-primary" />
@@ -226,7 +226,7 @@ export function Footer() {
         <div className="mt-16 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-xs text-muted-foreground">
-              © {new Date().getFullYear()} Prosira Advertisers. All rights reserved.
+              © {new Date().getFullYear()} Prosira Adtech Pvt. Ltd.. All rights reserved.
             </p>
 
             <div className="flex gap-4">

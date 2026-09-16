@@ -37,7 +37,7 @@ export async function POST(req: Request) {
 
     // 📧 ADMIN MAIL - Newsletter Subscription Notification
     await transporter.sendMail({
-      from: `"Prosira Advertisers" <${process.env.SMTP_USER}>`,
+      from: `"Prosira Adtech Pvt. Ltd." <${process.env.SMTP_USER}>`,
       to: process.env.ADMIN_EMAIL,
       subject: `📧 New Newsletter Subscription`,
       html: `
@@ -49,7 +49,7 @@ export async function POST(req: Request) {
             <p style="margin: 0;"><strong>Source:</strong> Website Footer Newsletter</p>
           </div>
           <p style="color: #666; font-size: 14px;">
-            This user has subscribed to receive marketing insights and updates from Prosira Advertisers.
+            This user has subscribed to receive marketing insights and updates from Prosira Adtech Pvt. Ltd..
           </p>
         </div>
       `,

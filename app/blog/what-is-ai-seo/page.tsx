@@ -19,12 +19,12 @@ const articleSchema = {
 
   author: {
     "@type": "Organization",
-    name: "Prosira Advertisers",
+    name: "Prosira Adtech Pvt. Ltd.",
   },
 
   publisher: {
     "@type": "Organization",
-    name: "Prosira Advertisers",
+    name: "Prosira Adtech Pvt. Ltd.",
     logo: {
       "@type": "ImageObject",
       url: "https://prosira.in/logo.png",

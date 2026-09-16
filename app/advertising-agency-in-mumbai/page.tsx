@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Advertising Agency in Mumbai | Prosira Advertisers",
+  title: "Advertising Agency in Mumbai | Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers is a professional advertising agency in Mumbai offering TV, radio, outdoor hoardings, digital marketing, branding, and event solutions for businesses across Mumbai.",
+    "Prosira Adtech Pvt. Ltd. is a professional advertising agency in Mumbai offering TV, radio, outdoor hoardings, digital marketing, branding, and event solutions for businesses across Mumbai.",
   alternates: {
     canonical: "/advertising-agency-in-mumbai",
   },
   openGraph: {
-    title: "Advertising Agency in Mumbai | Prosira Advertisers",
+    title: "Advertising Agency in Mumbai | Prosira Adtech Pvt. Ltd.",
     description:
       "Full-service advertising agency in Mumbai providing TV, radio, outdoor, digital marketing and branding solutions.",
     url: "/advertising-agency-in-mumbai",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Advertising Agency in Mumbai | Prosira Advertisers",
+    title: "Advertising Agency in Mumbai | Prosira Adtech Pvt. Ltd.",
     description:
       "Professional advertising agency in Mumbai offering complete media and branding solutions.",
   },
@@ -33,7 +33,7 @@ export default function AdvertisingAgencyMumbaiPage() {
         </h1>
 
         <p className="text-lg text-muted-foreground max-w-3xl mb-10">
-          Prosira Advertisers is a full-service advertising agency in Mumbai,
+          Prosira Adtech Pvt. Ltd. is a full-service advertising agency in Mumbai,
           delivering impactful media campaigns, creative branding, outdoor
           hoardings, digital marketing, and event promotions.
         </p>
@@ -68,7 +68,7 @@ export default function AdvertisingAgencyMumbaiPage() {
             {
               "@context": "https://schema.org",
               "@type": "AdvertisingAgency",
-              name: "Prosira Advertisers",
+              name: "Prosira Adtech Pvt. Ltd.",
               url: "https://prosira.in/advertising-agency-in-mumbai",
               telephone: "+91-9028815714",
               areaServed: {

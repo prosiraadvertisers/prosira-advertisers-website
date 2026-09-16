@@ -168,7 +168,7 @@ export default function CareerContent() {
   salary: "As per industry standards + Attractive Incentives",
 
   description:
-    "Prosira Advertisers is looking for a highly motivated and result-oriented Digital Sales Executive to drive business growth through client acquisition and field sales activities across Pune.",
+    "Prosira Adtech Pvt. Ltd. is looking for a highly motivated and result-oriented Digital Sales Executive to drive business growth through client acquisition and field sales activities across Pune.",
 
   highlights: [
     "Identify and acquire new clients across Pune",
@@ -228,7 +228,7 @@ export default function CareerContent() {
             <h1 className="text-4xl font-bold leading-tight md:text-6xl">
               Build Your Career With{" "}
               <span className="mt-2 block font-serif text-primary">
-                Prosira Advertisers
+                Prosira Adtech Pvt. Ltd.
               </span>
             </h1>
 
@@ -340,7 +340,7 @@ export default function CareerContent() {
           <div className="mt-16 text-center">
 
             <p className="text-sm text-gray-600">
-              Prosira Advertisers – Advertising Agency in Pune |
+              Prosira Adtech Pvt. Ltd. – Advertising Agency in Pune |
               Digital Marketing | Media Planning | Media Buying |
               Events & Exhibitions
             </p>

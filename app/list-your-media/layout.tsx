@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "List Your Media With Prosira Advertisers",
+  title: "List Your Media With Prosira Adtech Pvt. Ltd.",
   description:
-    "Register your media with Prosira Advertisers. We collaborate with TV, Radio, Outdoor, Digital and Event media partners across India.",
+    "Register your media with Prosira Adtech Pvt. Ltd.. We collaborate with TV, Radio, Outdoor, Digital and Event media partners across India.",
 };
 
 export default function ListYourMediaLayout({

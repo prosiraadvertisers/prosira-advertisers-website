@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "event planning Pune",
   ],
   openGraph: {
-    title: "Events & Expo Management - Prosira Advertisers",
+    title: "Events & Expo Management - Prosira Adtech Pvt. Ltd.",
     description:
       "Professional event management services for corporate events, product launches, exhibitions, and brand activations in Pune.",
     url: "https://prosira.in/events-expo",

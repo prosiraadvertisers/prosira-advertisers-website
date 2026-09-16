@@ -120,7 +120,7 @@ export function AboutContent() {
           >
 <div className="relative h-[420px] md:h-[500px] lg:h-[580px] rounded-xl overflow-hidden">              <Image
                 src="/images/team-meeting.jpg"
-                alt="Prosira Advertisers team collaborating on campaign strategy"
+                alt="Prosira Adtech Pvt. Ltd. team collaborating on campaign strategy"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 loading="lazy"

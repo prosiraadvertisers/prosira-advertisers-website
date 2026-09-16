@@ -41,7 +41,7 @@ export function CTASection() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/events-bg.jpg"   // convert to webp if possible
-          alt="Contact Prosira Advertisers background"
+          alt="Contact Prosira Adtech Pvt. Ltd. background"
           fill
           sizes="100vw"
           className="object-cover"
@@ -88,7 +88,7 @@ export function CTASection() {
               size="lg"
               className="bg-primary text-primary-foreground hover:bg-primary/90 group"
             >
-              <Link href="/contact " aria-label="Contact Prosira Advertisers for a free quote" className="inline-flex items-center gap-2">
+              <Link href="/contact " aria-label="Contact Prosira Adtech Pvt. Ltd. for a free quote" className="inline-flex items-center gap-2">
                 Get a Free Quote
                 <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
               </Link>
@@ -102,7 +102,7 @@ export function CTASection() {
             >
               <a
                 href="tel:+919028815714"
-                aria-label="Call Prosira Advertisers Pune"
+                aria-label="Call Prosira Adtech Pvt. Ltd. Pune"
               >
                 <Phone className="mr-2 h-4 w-4" />
                 +91 90288 15714

@@ -139,7 +139,7 @@ export function HeroSection() {
           </div>
 
           <p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-xl mx-auto lg:mx-0">
-            Prosira Advertisers delivers powerful TV, radio, outdoor, digital
+            Prosira Adtech Pvt. Ltd. delivers powerful TV, radio, outdoor, digital
             marketing and branding solutions that grow businesses.
           </p>
 

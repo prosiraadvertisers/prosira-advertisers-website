@@ -44,7 +44,7 @@ export function ContactMap() {
           >
             <Image
               src="/map/patil-plaza-gold-map.png"
-              alt="Prosira Advertisers office location at Patil Plaza, Swargate, Pune"
+              alt="Prosira Adtech Pvt. Ltd. office location at Patil Plaza, Swargate, Pune"
               width={1920}
               height={600}
               
@@ -74,7 +74,7 @@ export function ContactMap() {
             href={mapLink}
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open Prosira Advertisers location in Google Maps"
+            aria-label="Open Prosira Adtech Pvt. Ltd. location in Google Maps"
             className="absolute right-6 bottom-6 z-10
                        flex items-center gap-3
                        rounded-full bg-black/65 backdrop-blur-md
@@ -103,7 +103,7 @@ export function ContactMap() {
             href={mapLink}
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open Prosira Advertisers in Google Maps"
+            aria-label="Open Prosira Adtech Pvt. Ltd. in Google Maps"
             className="
               relative inline-flex items-center justify-center
               rounded-full px-10 py-4

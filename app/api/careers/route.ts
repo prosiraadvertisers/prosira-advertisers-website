@@ -51,7 +51,7 @@ export async function POST(req: Request) {
 
     // 📧 ADMIN EMAIL
     await transporter.sendMail({
-      from: `"Prosira Advertisers" <${process.env.SMTP_USER}>`,
+      from: `"Prosira Adtech Pvt. Ltd." <${process.env.SMTP_USER}>`,
       to: process.env.ADMIN_EMAIL,
       subject: `🔥 New Job Application – ${position}`,
       html: `

@@ -9,7 +9,7 @@ import { Testimonials } from "@/components/case-studies/testimonials";
 import { CTA } from "@/components/case-studies/cta";
 
 export const metadata: Metadata = {
-  title: "Case Studies | Prosira Advertisers",
+  title: "Case Studies | Prosira Adtech Pvt. Ltd.",
   description:
     "Explore real-world marketing case studies, SEO growth, Google Ads performance, website transformations, and AI-driven marketing success stories by Prosira.",
 };

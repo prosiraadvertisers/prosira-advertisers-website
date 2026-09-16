@@ -881,7 +881,7 @@ export default function EXIMPage() {
 
             {/* Prosira */}
             <div className="compare-col prosira">
-              <h3 className="gold" style={{ fontWeight: 700, fontSize: "1.05rem", marginBottom: "24px" }}>Prosira Advertisers</h3>
+              <h3 className="gold" style={{ fontWeight: 700, fontSize: "1.05rem", marginBottom: "24px" }}>Prosira Adtech Pvt. Ltd.</h3>
               {[
                 { icon: "✅", text: "Always-On Lead Generation" },
                 { icon: "✅", text: "Consistent Year-Round Leads" },
@@ -1019,7 +1019,7 @@ export default function EXIMPage() {
           </motion.h2>
 
           <motion.p variants={fadeUp} style={{ color: "rgba(240,240,240,0.6)", lineHeight: "1.75", marginBottom: "44px", fontSize: "1.0rem" }}>
-            Build a predictable international lead generation system and grow your export-import business with Prosira Advertisers.
+            Build a predictable international lead generation system and grow your export-import business with Prosira Adtech Pvt. Ltd..
           </motion.p>
 
           <motion.div variants={fadeUp} style={{ display: "flex", gap: "16px", justifyContent: "center", flexWrap: "wrap" }}>

@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Privacy Policy | Prosira Advertisers",
+  title: "Privacy Policy | Prosira Adtech Pvt. Ltd.",
   description:
-    "Learn how Prosira Advertisers collects, uses, stores, and protects your personal data in accordance with global privacy standards.",
+    "Learn how Prosira Adtech Pvt. Ltd. collects, uses, stores, and protects your personal data in accordance with global privacy standards.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
       <div className="space-y-10 text-sm leading-relaxed text-muted-foreground">
 
         <p>
-          Prosira Advertisers (“Prosira”, “we”, “our”, or “us”) is committed to
+          Prosira Adtech Pvt. Ltd. (“Prosira”, “we”, “our”, or “us”) is committed to
           protecting your privacy. This Privacy Policy explains how we collect,
           use, disclose, and safeguard your information when you visit our
           website or engage with our services.

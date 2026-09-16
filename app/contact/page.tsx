@@ -7,15 +7,15 @@ import { ContactMap } from "@/components/contact/contact-map";
 export const metadata: Metadata = {
   title: "Contact Us - Advertising Agency Contact Pune",
   description:
-    "Get in touch with Prosira Advertisers, the leading advertising agency in Pune. Contact us for TV advertising, digital marketing, event management, and brand solutions.",
+    "Get in touch with Prosira Adtech Pvt. Ltd., the leading advertising agency in Pune. Contact us for TV advertising, digital marketing, event management, and brand solutions.",
   keywords: [
     "advertising agency contact Pune",
-    "contact Prosira Advertisers",
+    "contact Prosira Adtech Pvt. Ltd.",
     "advertising services Pune",
     "marketing agency contact",
   ],
   openGraph: {
-    title: "Contact Prosira Advertisers - Get a Free Quote",
+    title: "Contact Prosira Adtech Pvt. Ltd. - Get a Free Quote",
     description:
       "Contact our advertising experts for a  consultation. We offer TV, radio, digital marketing, and event management services in Pune.",
     url: "https://prosira.in/contact",

@@ -9,9 +9,9 @@ import { HomepageSEOSection } from "@/components/home/homepage-seo-section";
 
 
 export const metadata: Metadata = {
-  title: "Prosira Advertisers | Leading Advertising Agency in Pune",
+  title: "Prosira Adtech Pvt. Ltd. | Leading Advertising Agency in Pune",
   description:
-    "Prosira Advertisers is a full-service advertising agency in Pune offering TV, radio, outdoor hoardings, digital marketing, branding, and event management solutions across Maharashtra.",
+    "Prosira Adtech Pvt. Ltd. is a full-service advertising agency in Pune offering TV, radio, outdoor hoardings, digital marketing, branding, and event management solutions across Maharashtra.",
   keywords: [
     "advertising agency in Pune",
     "digital marketing agency Pune",
@@ -29,16 +29,16 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: "https://prosira.in/",
-    title: "Prosira Advertisers | Premium Advertising Agency in Pune",
+    title: "Prosira Adtech Pvt. Ltd. | Premium Advertising Agency in Pune",
     description:
       "Strategic advertising, media planning, digital marketing, and event solutions delivering measurable growth for brands in Pune and across Maharashtra.",
-    siteName: "Prosira Advertisers",
+    siteName: "Prosira Adtech Pvt. Ltd.",
     locale: "en_IN",
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Prosira Advertisers | Advertising Agency Pune",
+    title: "Prosira Adtech Pvt. Ltd. | Advertising Agency Pune",
     description:
       "TV, Radio, Outdoor, Digital & Event Marketing Solutions in Pune.",
   },

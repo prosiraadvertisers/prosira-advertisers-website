@@ -11,7 +11,7 @@ const teamMembers = [
     image: "/team/shashikantsir.png",
     bio: "Strategic leader driving brand innovation, large-scale media planning, and integrated advertising solutions.",
     expandedBio:
-      "With extensive experience in traditional and digital advertising, Shashikant leads Prosira Advertisers with a clear vision for performance-driven branding. He specializes in media strategy, campaign architecture, and high-impact brand positioning. Under his leadership, Prosira has executed multi-channel campaigns across print, outdoor, radio, television, and digital platforms, helping brands scale visibility and revenue in competitive markets.",
+      "With extensive experience in traditional and digital advertising, Shashikant leads Prosira Adtech Pvt. Ltd. with a clear vision for performance-driven branding. He specializes in media strategy, campaign architecture, and high-impact brand positioning. Under his leadership, Prosira has executed multi-channel campaigns across print, outdoor, radio, television, and digital platforms, helping brands scale visibility and revenue in competitive markets.",
     linkedin: "https://www.linkedin.com/in/shashikantt-paanchal-8a576467/",
   },
   {

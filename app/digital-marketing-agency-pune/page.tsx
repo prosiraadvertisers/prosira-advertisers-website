@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Digital Marketing Agency in Pune | SEO & Social Media – Prosira Advertisers",
+  title: "Digital Marketing Agency in Pune | SEO & Social Media – Prosira Adtech Pvt. Ltd.",
   description:
-    "Prosira Advertisers is a results-driven digital marketing agency in Pune offering SEO, social media marketing, Google Ads, and performance marketing services.",
+    "Prosira Adtech Pvt. Ltd. is a results-driven digital marketing agency in Pune offering SEO, social media marketing, Google Ads, and performance marketing services.",
 };
 
 export default function DigitalMarketingPunePage() {
@@ -16,7 +16,7 @@ export default function DigitalMarketingPunePage() {
         </h1>
 
         <p className="text-muted-foreground max-w-3xl mb-10">
-          Prosira Advertisers is a trusted digital marketing agency in Pune helping
+          Prosira Adtech Pvt. Ltd. is a trusted digital marketing agency in Pune helping
           brands grow online through SEO, social media marketing, paid ads, and
           performance-driven digital strategies.
         </p>
@@ -48,7 +48,7 @@ export default function DigitalMarketingPunePage() {
           "@type": "Service",
           "serviceType": "Digital Marketing",
           "areaServed": { "@type": "City", "name": "Pune" },
-          "provider": { "@type": "AdvertisingAgency", "name": "Prosira Advertisers" }
+          "provider": { "@type": "AdvertisingAgency", "name": "Prosira Adtech Pvt. Ltd." }
         })
       }} />
     </>
