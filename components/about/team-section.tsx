@@ -131,13 +131,21 @@ export function TeamSection() {
                       View Team →
                     </span>
                   )}
+                  {index === 1 && (
+  <span className="text-primary text-sm mt-3 inline-block">
+    View Awards →
+  </span>
+)}
                 </div>
               </div>
             );
 
-            if (index === 0) {
+            if (index === 0 || index === 1) {
               return (
-                <Link key={item.title} href="/team">
+                <Link
+                  key={item.title}
+                  href={index === 0 ? "/team" : "/awards-recognition"}
+                >
                   {Card}
                 </Link>
               );

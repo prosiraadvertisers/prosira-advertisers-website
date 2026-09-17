@@ -885,7 +885,7 @@ export default function EXIMPage() {
               {[
                 { icon: "✅", text: "Always-On Lead Generation" },
                 { icon: "✅", text: "Consistent Year-Round Leads" },
-                { icon: "✅", text: "100+ Countries Reach" },
+                { icon: "✅", text: "10+ Countries Reach" },
                 { icon: "✅", text: "Scalable & Trackable Growth" },
                 { icon: "✅", text: "Verified Buyer Leads" },
               ].map((row) => (
@@ -1024,7 +1024,7 @@ export default function EXIMPage() {
 
           <motion.div variants={fadeUp} style={{ display: "flex", gap: "16px", justifyContent: "center", flexWrap: "wrap" }}>
             <Link href="/contact" className="btn-primary" style={{ fontSize: "1rem", padding: "16px 32px" }}>
-              Claim Free Blueprint
+              Claim  Blueprint
             </Link>
             <Link href="/contact" className="btn-secondary" style={{ fontSize: "1rem", padding: "16px 32px" }}>
               Talk To EXIM Expert →
