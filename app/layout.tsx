@@ -219,7 +219,7 @@ const serviceSchema = {
                 url: "https://prosira.in",
                 logo: "https://prosira.in/logo.png",
                 image: "https://prosira.in/opengraph-image.png",
-                telephone: "+91-9028815714",
+                telephone: "+91-9730575714",
                 address: {
                   "@type": "PostalAddress",
                   streetAddress:

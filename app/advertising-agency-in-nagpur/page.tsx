@@ -90,7 +90,7 @@ export default function AdvertisingAgencyNagpurPage() {
               "@type": "AdvertisingAgency",
               "name": "Prosira Adtech Pvt. Ltd.",
               "url": "https://prosira.in/advertising-agency-in-nagpur",
-              "telephone": "+91-9028815714",
+              "telephone": "+91-9730575714",
               "areaServed": {
                 "@type": "City",
                 "name": "Nagpur"

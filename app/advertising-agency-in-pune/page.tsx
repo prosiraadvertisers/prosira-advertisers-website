@@ -95,7 +95,7 @@ export default function AdvertisingAgencyPunePage() {
               "@type": "AdvertisingAgency",
               "name": "Prosira Adtech Pvt. Ltd.",
               "url": "https://prosira.in/advertising-agency-in-pune",
-              "telephone": "+91-9028815714",
+              "telephone": "+91-9730575714",
               "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "3rd Floor, Patil Plaza, Swargate",
