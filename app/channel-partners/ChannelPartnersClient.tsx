@@ -97,13 +97,13 @@ export default function ChannelPartnersClient() {
           transition={{ duration: 0.8 }}
           className="max-w-4xl mx-auto px-6"
         >
-         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">
+         <h1 className="text-2xl md:text-4xl font-bold mb-6 text-white">
   Our{" "}
   <span className="text-primary font-serif">
     Channel Partners
   </span>
 </h1>
-          <p className="text-lg text-gray-400">
+          <p className="text-sm text-gray-400">
             We collaborate with India's leading television networks,
             newspapers, cinema chains, and radio stations to deliver
             maximum reach and impact for your brand.

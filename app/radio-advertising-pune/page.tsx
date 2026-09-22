@@ -11,11 +11,11 @@ export default function RadioAdvertisingPunePage() {
   return (
     <>
       <main className="site-container py-12 md:py-16">
-        <h1 className="text-3xl md:text-5xl font-bold mb-6">
+        <h1 className="text-xl md:text-3xl font-bold mb-6">
           Radio Advertising in <span className="text-primary">Pune</span>
         </h1>
 
-        <p className="text-muted-foreground max-w-3xl mb-10">
+        <p className="text-xs text-muted-foreground max-w-3xl mb-10">
           We deliver impactful radio advertising campaigns in Pune through
           popular FM stations, creative scripting, and strategic media planning.
         </p>

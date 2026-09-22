@@ -12,12 +12,12 @@ export default function HoardingAdvertisingPunePage() {
     <>
       <main className="site-container py-12 sm:py-16">
         {/* H1 */}
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">
+        <h1 className="text-xl sm:text-2xl md:text-3xl font-bold mb-6">
           Hoarding Advertising in <span className="text-primary">Pune</span>
         </h1>
 
         {/* Intro */}
-        <p className="text-base sm:text-lg text-muted-foreground max-w-3xl mb-10">
+        <p className="text-xs sm:text-sm text-muted-foreground max-w-3xl mb-10">
           Prosira Adtech Pvt. Ltd. is a trusted hoarding advertising agency in Pune,
           offering strategic billboard placements across high-traffic locations.
           Our hoarding campaigns help brands achieve maximum visibility, recall,

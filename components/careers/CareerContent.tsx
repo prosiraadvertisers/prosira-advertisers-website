@@ -225,14 +225,14 @@ export default function CareerContent() {
               Careers at Prosira
             </p>
 
-            <h1 className="text-4xl font-bold leading-tight md:text-6xl">
+            <h1 className="text-2xl font-bold leading-tight md:text-4xl">
               Build Your Career With{" "}
               <span className="mt-2 block font-serif text-primary">
                 Prosira Adtech Pvt. Ltd.
               </span>
             </h1>
 
-            <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-gray-400">
+            <p className="mx-auto mt-6 max-w-3xl text-sm leading-8 text-gray-400">
               Join our creative advertising team in Pune and work on impactful
               branding, media planning, digital marketing and advertising campaigns.
             </p>

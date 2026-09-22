@@ -45,12 +45,12 @@
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
             >
-              <h1 className="text-4xl md:text-6xl font-bold mb-6">
+              <h1 className="text-2xl md:text-4xl font-bold mb-6">
                 <span className="text-white">Our </span>
                 <span className="text-primary">Signature Work</span>
               </h1>
 
-              <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-10 md:mb-12">
+              <p className="text-base text-gray-300 max-w-3xl mx-auto mb-10 md:mb-12">
                 Explore our comprehensive advertising solutions designed to elevate your brand presence 
                 and deliver measurable results across traditional media, digital platforms, and experiential marketing.
               </p>

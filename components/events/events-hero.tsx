@@ -126,7 +126,7 @@ export function EventsHero() {
 
 <h1
   data-animate
-  className="f-reveal text-4xl md:text-5xl lg:text-6xl font-bold mb-6"
+  className="f-reveal text-2xl md:text-3xl lg:text-4xl font-bold mb-6"
 >
   Experiences That{" "}
   <span className="text-primary font-serif">
@@ -136,7 +136,7 @@ export function EventsHero() {
 
 <p
   data-animate
-  className="f-reveal text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl"
+  className="f-reveal text-sm md:text-base text-muted-foreground leading-relaxed max-w-3xl"
 >
   Creating impactful events, exhibitions and brand activations
   that connect audiences with brands.

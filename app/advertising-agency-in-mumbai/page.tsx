@@ -28,11 +28,11 @@ export default function AdvertisingAgencyMumbaiPage() {
   return (
     <>
       <section className="site-container py-12 md:py-16">
-        <h1 className="text-4xl md:text-5xl font-bold mb-6">
+        <h1 className="text-2xl md:text-3xl font-bold mb-6">
           Advertising Agency in <span className="text-primary">Mumbai</span>
         </h1>
 
-        <p className="text-lg text-muted-foreground max-w-3xl mb-10">
+        <p className="text-sm text-muted-foreground max-w-3xl mb-10">
           Prosira Adtech Pvt. Ltd. is a full-service advertising agency in Mumbai,
           delivering impactful media campaigns, creative branding, outdoor
           hoardings, digital marketing, and event promotions.

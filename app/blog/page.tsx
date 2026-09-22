@@ -95,11 +95,11 @@ export default function BlogPage() {
           AI SEO & Marketing Insights
         </div>
 
-        <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
+        <h1 className="text-2xl md:text-3xl font-bold leading-tight mb-6">
           AI SEO, Advertising & Digital Marketing Insights
         </h1>
 
-        <p className="text-muted-foreground text-base md:text-lg leading-relaxed">
+        <p className="text-muted-foreground text-xs md:text-sm leading-relaxed">
           Explore AI SEO, digital marketing, branding, advertising,
           Google Ads, media planning, local SEO and future search
           strategies from Prosira Adtech Pvt. Ltd..

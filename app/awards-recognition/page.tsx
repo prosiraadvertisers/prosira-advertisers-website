@@ -63,11 +63,11 @@ export default function AwardsRecognitionPage() {
           <span className="mb-4 inline-block text-sm font-medium uppercase tracking-wider text-primary">
             Our Achievements
           </span>
-          <h1 className="mb-6 text-4xl font-bold md:text-5xl">
+          <h1 className="mb-6 text-2xl font-bold md:text-3xl">
             Recognised for{" "}
             <span className="font-serif text-primary">Impact</span>
           </h1>
-          <p className="text-lg leading-relaxed text-muted-foreground">
+          <p className="text-sm leading-relaxed text-muted-foreground">
             Every recognition reflects the trust of our clients and the craft,
             care, and consistency our team brings to every campaign.
           </p>

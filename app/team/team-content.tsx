@@ -136,10 +136,10 @@ export default function TeamContent() {
       <div className="site-container space-y-12 md:space-y-16">
         {/* Heading */}
         <div className="text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+          <h1 className="text-2xl md:text-3xl font-bold mb-4">
             Meet Our <span className="text-primary font-serif">Experts</span>
           </h1>
-          <p className="text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-xs text-muted-foreground max-w-2xl mx-auto">
             A passionate team driving strategy, creativity, and measurable growth.
           </p>
         </div>

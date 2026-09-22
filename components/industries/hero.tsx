@@ -36,7 +36,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
-          className="max-w-6xl text-5xl font-bold leading-tight tracking-tight md:text-7xl"
+          className="max-w-6xl text-3xl font-bold leading-tight tracking-tight md:text-5xl"
         >
           Industry-Specific{" "}
           <span className="bg-gradient-to-r from-[#D4AF37] to-[#F5D06F] bg-clip-text text-transparent">
@@ -50,7 +50,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="mt-8 max-w-3xl text-lg leading-relaxed text-white/70 md:text-xl"
+          className="mt-8 max-w-3xl text-sm leading-relaxed text-white/70 md:text-base"
         >
           Prosira helps businesses across healthcare, real estate,
           restaurants, education, manufacturing, pest control, and

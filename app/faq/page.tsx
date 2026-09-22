@@ -83,11 +83,11 @@ export default function FAQPage() {
                   Frequently Asked Questions
             </p>
 
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">
+            <h1 className="text-2xl md:text-4xl font-bold mb-6">
               Marketing & SEO FAQs
             </h1>
 
-            <p className="text-zinc-400 text-lg leading-relaxed">
+            <p className="text-zinc-400 text-sm leading-relaxed">
               Answers to common questions about SEO, branding,
               website development, AI SEO, and digital marketing services.
             </p>

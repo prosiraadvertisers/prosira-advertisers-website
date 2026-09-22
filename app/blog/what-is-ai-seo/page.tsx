@@ -58,11 +58,11 @@ export default function AISEOArticlePage() {
           AI SEO
         </div>
 
-        <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-8">
+        <h1 className="text-2xl md:text-4xl font-bold leading-tight mb-8">
           What is AI SEO? Complete Guide for 2026
         </h1>
 
-        <p className="text-lg text-muted-foreground leading-relaxed">
+        <p className="text-sm text-muted-foreground leading-relaxed">
           AI SEO is transforming how businesses appear across
           ChatGPT, Google AI Overviews, Gemini, and Perplexity.
           Learn how modern search is evolving beyond traditional SEO.

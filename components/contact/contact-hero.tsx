@@ -126,14 +126,14 @@ export function ContactHero() {
 
           <h1
             data-animate
-            className="f-reveal text-4xl md:text-5xl lg:text-6xl font-bold mb-6"
+            className="f-reveal text-2xl md:text-3xl lg:text-4xl font-bold mb-6"
           >
             Let's Start Your{" "}
             <span className="text-primary font-serif ">Campaign</span>
           </h1>
           <p
             data-animate
-            className="f-reveal text-xl text-muted-foreground leading-relaxed"
+            className="f-reveal text-base text-muted-foreground leading-relaxed"
           >
             Ready to transform your brand? Get in touch with our team for a 
             consultation & customized advertising strategy.

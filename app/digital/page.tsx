@@ -551,11 +551,11 @@ export default function DigitalMarketingPortfolio() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">
+            <h1 className="text-2xl md:text-4xl font-bold mb-6">
               <span className="text-white">Digital Marketing </span>
               <span className="text-primary font-serif ">Success Stories</span>
             </h1>
-            <p className="text-xl text-gray-300 max-w-3xl">
+            <p className="text-base text-gray-300 max-w-3xl">
               Real results from real clients. Data-driven social media campaigns that deliver measurable growth and exceptional ROI.
             </p>
           </motion.div>

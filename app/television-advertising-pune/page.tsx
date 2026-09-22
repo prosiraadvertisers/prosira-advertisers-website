@@ -10,11 +10,11 @@ export const metadata: Metadata = {
 export default function TelevisionAdvertisingPunePage() {
   return (
     <main className="site-container py-12 md:py-16">
-      <h1 className="text-3xl md:text-5xl font-bold mb-6">
+      <h1 className="text-xl md:text-3xl font-bold mb-6">
         Television Advertising in <span className="text-primary">Pune</span>
       </h1>
 
-      <p className="text-muted-foreground max-w-3xl mb-10">
+      <p className="text-xs text-muted-foreground max-w-3xl mb-10">
         Reach mass audiences with television advertising campaigns designed
         for maximum brand recall and credibility.
       </p>

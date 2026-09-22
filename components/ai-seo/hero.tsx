@@ -32,7 +32,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
-          className="max-w-5xl text-5xl font-bold leading-tight tracking-tight md:text-7xl"
+          className="max-w-5xl text-3xl font-bold leading-tight tracking-tight md:text-5xl"
         >
           AI SEO Services for the{" "}
           <span className="bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
@@ -45,7 +45,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="mt-8 max-w-3xl text-lg leading-relaxed text-white/70 md:text-xl"
+          className="mt-8 max-w-3xl text-sm leading-relaxed text-white/70 md:text-base"
         >
           Optimize your business for Google AI Overviews, ChatGPT,
           Gemini, Perplexity, and the next generation of AI-powered
