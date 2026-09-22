@@ -288,7 +288,7 @@ export function DigitalCTA() {
   }
 
   return (
-    <section className="bg-[#080b10] min-h-screen py-14 sm:py-16 lg:py-20 px-4 sm:px-6 relative overflow-hidden">
+    <section className="bg-[#080b10] py-12 sm:py-16 lg:py-20 px-4 sm:px-6 relative overflow-hidden">
       {/* Background decorations */}
       <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
         <div className="absolute top-20 left-10 w-96 h-96 bg-[#d4af37]/3 rounded-full blur-[120px]" />

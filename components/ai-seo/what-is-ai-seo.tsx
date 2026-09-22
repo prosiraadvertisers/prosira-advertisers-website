@@ -5,14 +5,14 @@ import { BrainCircuit, SearchCheck, Sparkles } from "lucide-react";
 
 export function WhatIsAISEO() {
   return (
-    <section className="relative overflow-hidden bg-black px-6 py-24 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden bg-black px-6 py-12 text-white md:px-12 md:py-16 lg:px-20">
       
       {/* Background Glow */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute left-0 top-1/2 h-[300px] w-[300px] -translate-y-1/2 rounded-full bg-cyan-500/10 blur-3xl" />
       </div>
 
-      <div className="mx-auto grid max-w-7xl items-center gap-16 lg:grid-cols-2">
+      <div className="mx-auto grid max-w-7xl items-center gap-10 lg:grid-cols-2">
         
         {/* Left Content */}
         <motion.div

@@ -536,7 +536,7 @@ export default function DigitalMarketingPortfolio() {
       </div>
 
       {/* Hero Section */}
-      <section className="relative py-20 lg:py-24">
+      <section className="relative py-14 lg:py-20">
         <div className="site-container">
           <Link 
             href="/work"
@@ -746,7 +746,7 @@ export default function DigitalMarketingPortfolio() {
       </AnimatePresence>
 
       {/* CTA Section */}
-      <section className="py-20">
+      <section className="py-12 md:py-16">
         <div className="site-container text-center">
           <motion.div
             initial={{ opacity: 0, y: 30 }}

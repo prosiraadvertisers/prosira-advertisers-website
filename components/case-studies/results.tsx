@@ -33,7 +33,7 @@ const stats = [
 
 export function Results() {
   return (
-    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-24 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-12 text-white md:px-12 md:py-16 lg:px-20">
 
       {/* Glow */}
       <div className="absolute inset-0 -z-10">
@@ -64,7 +64,7 @@ export function Results() {
         </motion.div>
 
         {/* Stats Grid */}
-        <div className="mt-16 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {stats.map((stat, index) => (
             <motion.div
               key={index}

@@ -31,14 +31,14 @@ const points = [
 
 export function WhyIndustrySEO() {
   return (
-    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-24 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-12 text-white md:px-12 md:py-16 lg:px-20">
 
       {/* Glow */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute right-0 top-0 h-[400px] w-[400px] rounded-full bg-[#D4AF37]/10 blur-3xl" />
       </div>
 
-      <div className="mx-auto grid max-w-7xl items-center gap-16 lg:grid-cols-2">
+      <div className="mx-auto grid max-w-7xl items-center gap-10 lg:grid-cols-2">
 
         {/* Left Content */}
         <motion.div

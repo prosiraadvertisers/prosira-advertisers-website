@@ -27,8 +27,8 @@ export default function ContactPage() {
     <>
       <ContactHero />
 
-      <div className="py-20 bg-background">
-        <div className="site-container space-y-20">
+      <div className="py-12 bg-background md:py-16">
+        <div className="site-container space-y-12 md:space-y-16">
           
           {/* Contact Form */}
           <ContactForm />

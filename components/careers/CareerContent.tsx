@@ -211,7 +211,7 @@ export default function CareerContent() {
 
   return (
     <>
-      <section className="relative overflow-hidden bg-gradient-to-b from-black via-neutral-950 to-black py-20 text-white">
+      <section className="relative overflow-hidden bg-gradient-to-b from-black via-neutral-950 to-black py-14 text-white md:py-20">
 
         {/* Background Glow */}
         <div className="absolute left-1/2 top-0 h-[500px] w-[500px] -translate-x-1/2 rounded-full bg-primary/10 blur-3xl" />
@@ -219,7 +219,7 @@ export default function CareerContent() {
         <div className="site-container relative z-10 max-w-7xl mx-auto px-4">
 
           {/* Heading */}
-          <div className="mb-20 text-center">
+          <div className="mb-10 text-center md:mb-12">
 
             <p className="mb-4 text-sm uppercase tracking-[0.3em] text-primary">
               Careers at Prosira
@@ -313,7 +313,7 @@ export default function CareerContent() {
           </div>
 
           {/* Resume Section */}
-          <div className="mx-auto mt-24 max-w-4xl rounded-3xl border border-primary/20 bg-white/[0.03] p-10 text-center backdrop-blur-xl">
+          <div className="mx-auto mt-12 max-w-4xl rounded-3xl border border-primary/20 bg-white/[0.03] p-10 text-center backdrop-blur-xl">
 
             <h3 className="text-3xl font-bold text-white">
               Don&apos;t See Your Role?

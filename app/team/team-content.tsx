@@ -132,8 +132,8 @@ export default function TeamContent() {
   };
 
   return (
-    <section className="py-24 bg-background">
-      <div className="site-container space-y-24">
+    <section className="py-12 bg-background md:py-16">
+      <div className="site-container space-y-12 md:space-y-16">
         {/* Heading */}
         <div className="text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
@@ -148,7 +148,7 @@ export default function TeamContent() {
         {teamMembers.map((member, index) => (
           <div
             key={member.name}
-            className={`border-2 border-primary p-8 rounded-2xl bg-background shadow-lg flex flex-col lg:flex-row items-center gap-12 ${
+            className={`border-2 border-primary p-8 rounded-2xl bg-background shadow-lg flex flex-col lg:flex-row items-center gap-8 ${
               index % 2 !== 0 ? "lg:flex-row-reverse" : ""
             }`}
           >

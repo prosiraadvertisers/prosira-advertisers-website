@@ -122,11 +122,11 @@ export function WhyChooseUs() {
   return (
     <section
       ref={sectionRef}
-      className="py-32 bg-secondary relative overflow-hidden"
+      className="py-16 bg-secondary relative overflow-hidden md:py-20"
     >
-      <div className="site-container relative space-y-16">
+      <div className="site-container relative space-y-10 md:space-y-12">
         {/* TOP SECTION */}
-        <div className="grid lg:grid-cols-2 gap-20 items-start lg:items-start">
+        <div className="grid lg:grid-cols-2 gap-10 md:gap-12 items-start lg:items-start">
           {/* LEFT CONTENT */}
           <div className="space-y-8">
             <span

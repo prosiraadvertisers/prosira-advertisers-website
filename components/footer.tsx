@@ -70,7 +70,7 @@ export function Footer() {
 
   return (
     <footer className="bg-card border-t border-border">
-      <div className="site-container py-16">
+      <div className="site-container py-12 md:py-16">
         <div className="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-4">
 
           {/* BRAND */}
@@ -192,12 +192,12 @@ export function Footer() {
 
               <li>
                 <a
-                  href="tel:+919028815714"
+                  href="tel:+919730575714"
                   aria-label="Call Prosira Adtech Pvt. Ltd."
                   className="flex gap-3 text-sm text-muted-foreground hover:text-yellow-500 hover:underline underline-offset-4 transition-all duration-300 cursor-pointer"
                 >
                   <Phone className="h-4 w-4 text-primary" />
-                  +91 90288 15714
+                  +91 97305 75714
                 </a>
               </li>
 
@@ -223,7 +223,7 @@ export function Footer() {
         </div>
 
         {/* BOTTOM BAR */}
-        <div className="mt-16 pt-8 border-t border-border">
+        <div className="mt-10 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-xs text-muted-foreground">
               © {new Date().getFullYear()} Prosira Adtech Pvt. Ltd.. All rights reserved.

@@ -51,7 +51,7 @@ const steps = [
 
 export function Process() {
   return (
-    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-24 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-12 text-white md:px-12 md:py-16 lg:px-20">
 
       {/* Glow */}
       <div className="absolute inset-0 -z-10">
@@ -83,7 +83,7 @@ export function Process() {
         </motion.div>
 
         {/* Timeline Grid */}
-        <div className="mt-20 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-10 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {steps.map((step, index) => (
             <motion.div
               key={index}

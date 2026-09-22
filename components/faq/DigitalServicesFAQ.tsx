@@ -34,7 +34,7 @@ export function DigitalServicesFAQ() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   return (
-    <section className="py-24 bg-background">
+    <section className="py-12 bg-background md:py-16">
       <div className="site-container">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
           Digital Marketing FAQs

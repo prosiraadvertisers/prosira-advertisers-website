@@ -36,7 +36,7 @@ export function NewsletterSection() {
 
   if (isSubscribed) {
     return (
-      <section className="py-16 sm:py-20 bg-gradient-to-br from-primary/10 via-background to-primary/5">
+      <section className="py-12 sm:py-16 bg-gradient-to-br from-primary/10 via-background to-primary/5">
         <div className="site-container px-6 sm:px-8">
           <div className="max-w-2xl mx-auto text-center">
             <div className="mx-auto mb-6 h-16 w-16 rounded-full bg-primary/20 flex items-center justify-center">
@@ -61,7 +61,7 @@ export function NewsletterSection() {
   }
 
   return (
-    <section className="py-16 sm:py-20 bg-gradient-to-br from-primary/10 via-background to-primary/5">
+    <section className="py-12 sm:py-16 bg-gradient-to-br from-primary/10 via-background to-primary/5">
       <div className="site-container px-4 sm:px-6">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-8 sm:mb-12">

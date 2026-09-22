@@ -86,10 +86,10 @@ const blogs = [
 
 export default function BlogPage() {
   return (
-    <section className="site-container py-16">
+    <section className="site-container py-12 md:py-16">
 
       {/* HEADER */}
-      <div className="max-w-3xl mb-16">
+      <div className="max-w-3xl mb-10 md:mb-12">
 
         <div className="inline-flex items-center rounded-full border border-primary/20 bg-primary/5 px-4 py-2 text-xs uppercase tracking-widest text-primary mb-6">
           AI SEO & Marketing Insights

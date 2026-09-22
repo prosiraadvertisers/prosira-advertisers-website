@@ -98,7 +98,7 @@ export function HeroSection() {
   const activeSlide = slides.find((s) => s.id === currentHeading);
 
   return ( 
-    <section className="relative bg-black text-white overflow-hidden min-h-[75vh] md:min-h-screen">
+    <section className="relative bg-black text-white overflow-hidden min-h-[62vh] md:min-h-[78vh]">
       {" "}
       {/* Background */}
       <div className="absolute inset-0 -z-10 bg-black md:hidden" />
@@ -115,14 +115,14 @@ export function HeroSection() {
         />
 <div className="absolute inset-0 bg-gradient-to-r from-black/20 via-black/10 to-transparent" />   </div>
       {/* Main Content */}
-      <div className="site-container pt-14 pb-0 grid lg:grid-cols-2 gap-12 items-end">
+      <div className="site-container pt-10 pb-0 grid lg:grid-cols-2 gap-10 items-end md:pt-12">
         {" "}
         {/* LEFT TEXT */}
-        <div className="space-y-8 text-center lg:text-left">
+        <div className="space-y-6 text-center lg:text-left">
           <span className="inline-flex px-5 py-2 rounded-full border border-primary/40 text-primary text-sm tracking-wide">
             ✦ Leading Advertising Agency in Pune
           </span>
-          <div className="relative min-h-[180px] sm:min-h-[220px] md:min-h-[260px]">
+          <div className="relative min-h-[160px] sm:min-h-[190px] md:min-h-[220px]">
             {" "}
             <div
               key={currentHeading}

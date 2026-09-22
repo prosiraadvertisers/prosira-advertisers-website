@@ -287,8 +287,8 @@ export function ServicesList() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="py-24 bg-background">
-      <div className="site-container space-y-14">
+    <section ref={sectionRef} className="py-12 bg-background md:py-16">
+      <div className="site-container space-y-10 md:space-y-12">
         {services.map((service, index) => {
           const isOpen = openId === service.id;
 

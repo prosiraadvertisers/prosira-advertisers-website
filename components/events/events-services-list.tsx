@@ -156,9 +156,9 @@ export function EventsServicesList() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="py-20 bg-background">
+    <section ref={sectionRef} className="py-12 bg-background md:py-16">
       <div className="site-container">
-        <div className="space-y-16">
+        <div className="space-y-10 md:space-y-12">
           {services.map((service, index) => (
             <Card
               key={service.title}

@@ -39,7 +39,7 @@ const services = [
 
 export function PremiumServiceCards() {
   return (
-    <section className="py-24 bg-gradient-to-b from-black via-gray-900 to-black">
+    <section className="py-12 bg-gradient-to-b from-black via-gray-900 to-black md:py-16">
       <div className="site-container">
         
         {/* Section Title */}
@@ -48,7 +48,7 @@ export function PremiumServiceCards() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="text-center mb-20"
+          className="text-center mb-10 md:mb-12"
         >
           <h2 className="text-3xl md:text-5xl font-bold mb-6">
             <span className="text-white">Our </span>
@@ -62,7 +62,7 @@ export function PremiumServiceCards() {
         </motion.div>
 
         {/* Service Cards */}
-        <div className="grid md:grid-cols-3 gap-8 lg:gap-12">
+        <div className="grid md:grid-cols-3 gap-8 lg:gap-10">
           {services.map((service, index) => (
             <motion.div
               key={service.id}

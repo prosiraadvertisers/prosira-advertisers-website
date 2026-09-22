@@ -10,7 +10,7 @@ import {
 
 export function Hero() {
   return (
-    <section className="relative overflow-hidden border-b border-white/10 bg-black px-6 py-28 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden border-b border-white/10 bg-black px-6 py-16 text-white md:px-12 md:py-20 lg:px-20">
 
       {/* Golden Glow */}
       <div className="absolute inset-0 -z-10">
@@ -86,7 +86,7 @@ export function Hero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 1 }}
-          className="mt-20 grid grid-cols-2 gap-6 border-t border-white/10 pt-10 md:grid-cols-4"
+          className="mt-12 grid grid-cols-2 gap-6 border-t border-white/10 pt-8 md:grid-cols-4"
         >
           {[
             "Healthcare Marketing",

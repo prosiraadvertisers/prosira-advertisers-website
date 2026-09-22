@@ -37,7 +37,7 @@
       <div className="min-h-screen bg-black">
 
         {/* HERO SECTION */}
-        <section className="relative py-24 lg:py-32 overflow-hidden">
+        <section className="relative py-16 lg:py-20 overflow-hidden">
           <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-transparent" />
           <div className="relative site-container text-center">
             <motion.div
@@ -50,7 +50,7 @@
                 <span className="text-primary">Signature Work</span>
               </h1>
 
-              <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-16">
+              <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-10 md:mb-12">
                 Explore our comprehensive advertising solutions designed to elevate your brand presence 
                 and deliver measurable results across traditional media, digital platforms, and experiential marketing.
               </p>
@@ -59,9 +59,9 @@
         </section>
 
         {/* SERVICE CARDS */}
-        <section className="py-20">
+        <section className="py-14 md:py-20">
           <div className="site-container">
-            <div className="grid md:grid-cols-3 gap-8 lg:gap-12">
+            <div className="grid md:grid-cols-3 gap-8 lg:gap-10">
 
               {services.map((service, index) => (
                 <motion.div
@@ -123,7 +123,7 @@
         </section>
 
         {/* CTA SECTION */}
-        <section className="py-20 bg-primary/5">
+        <section className="py-12 md:py-16 bg-primary/5">
           <div className="site-container text-center">
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
               Ready to Transform Your Brand?

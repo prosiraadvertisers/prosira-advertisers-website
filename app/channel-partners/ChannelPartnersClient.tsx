@@ -57,7 +57,7 @@ const Section = ({ title, partners }: any) => {
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
       viewport={{ once: true }}
-      className="mb-20"
+      className="mb-12"
     >
       <h2 className="text-3xl md:text-4xl font-bold text-white mb-10 relative inline-block">
         {title}
@@ -90,7 +90,7 @@ export default function ChannelPartnersClient() {
     <div className="min-h-screen bg-black text-white">
 
       {/* HERO SECTION */}
-      <section className="py-24 text-center bg-gradient-to-b from-black via-gray-900 to-black">
+      <section className="py-14 text-center bg-gradient-to-b from-black via-gray-900 to-black md:py-20">
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
@@ -112,21 +112,21 @@ export default function ChannelPartnersClient() {
       </section>
 
       {/* PARTNER SECTIONS */}
-      <div className="max-w-7xl mx-auto px-6 py-20">
+      <div className="max-w-7xl mx-auto px-6 py-12 md:py-16">
         <Section title="Television Partners" partners={channelPartners.television} />
         <Section title="Newspaper Partners" partners={channelPartners.newspaper} />
         <Section title="Cinema Advertising Partners" partners={channelPartners.cinema} />
         <Section title="Radio Partners" partners={channelPartners.radio} />
       </div>
 {/* PREMIUM CTA SECTION */}
-<section className="py-28 bg-black border-t border-yellow-500/10">
+<section className="py-14 bg-black border-t border-yellow-500/10 md:py-20">
   <div className="max-w-5xl mx-auto px-6 text-center">
 
     <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
       Ready to Transform Your Brand?
     </h2>
 
-    <p className="text-lg md:text-xl text-gray-400 mb-12">
+    <p className="text-lg md:text-xl text-gray-400 mb-8">
       Let us create powerful advertising campaigns that deliver
       exceptional results across all platforms.
     </p>

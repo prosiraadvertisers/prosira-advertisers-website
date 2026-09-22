@@ -8,7 +8,7 @@ export function ContactMap() {
 
   return (
     <section
-      className="bg-[#0B0B0B] py-24"
+      className="bg-[#0B0B0B] py-12 md:py-16"
       aria-labelledby="office-location-heading"
     >
       <div className="site-container">

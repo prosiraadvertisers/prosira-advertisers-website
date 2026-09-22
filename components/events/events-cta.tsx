@@ -30,7 +30,7 @@ export function EventsCTA() {
   return (
     <section
       ref={sectionRef}
-      className="relative py-24 overflow-hidden bg-gradient-to-r from-primary/10 via-background to-primary/10"
+      className="relative py-14 overflow-hidden bg-gradient-to-r from-primary/10 via-background to-primary/10 md:py-20"
     >
       {/* EXACT SAME SPOTLIGHT AS ABOUT CTA */}
       <div className="absolute inset-0 pointer-events-none">
@@ -76,7 +76,7 @@ export function EventsCTA() {
             variant="outline"
             className="hover-lift border-primary/30 text-foreground hover:bg-primary/10 hover:text-primary"
           >
-            <a href="tel:+919028815714" className="flex items-center">
+            <a href="tel:+919730575714" className="flex items-center">
               <Phone className="mr-2 h-4 w-4" />
               Call Us Now
             </a>

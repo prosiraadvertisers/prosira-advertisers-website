@@ -125,7 +125,7 @@ export function ContactForm() {
   /* ================= SUCCESS UI ================= */
   if (isSubmitted) {
     return (
-      <div className="max-w-4xl mx-auto px-6 py-20">
+      <div className="max-w-4xl mx-auto px-6 pt-0 pb-8 md:pb-12">
         <div className="max-w-2xl mx-auto rounded-3xl p-12 text-center bg-gradient-to-br from-yellow-400/15 via-zinc-900/80 to-zinc-900 shadow-[0_40px_120px_-40px_rgba(212,175,55,0.5)] border border-yellow-400/30">
           <div className="mx-auto mb-6 h-20 w-20 rounded-full bg-yellow-400/20 flex items-center justify-center border-4 border-yellow-400/40">
             <CheckCircle className="h-12 w-12 text-yellow-400" />
@@ -141,8 +141,8 @@ export function ContactForm() {
 
   /* ================= FORM ================= */
   return (
-    <div ref={formRef} className="max-w-4xl mx-auto px-6 py-20">
-      <div data-animate className="mb-14 text-center">
+    <div ref={formRef} className="max-w-4xl mx-auto px-6 pt-0 pb-8 md:pb-12">
+      <div data-animate className="mb-6 text-center">
         <h2 className="text-4xl md:text-5xl font-bold text-primary font-serif">
           Connect With Us
         </h2>

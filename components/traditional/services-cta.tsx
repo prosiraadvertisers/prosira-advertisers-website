@@ -6,7 +6,7 @@ import { ArrowRight, Phone } from "lucide-react";
 
 export function ServicesCTA() {
   return (
-    <section className="relative py-28 overflow-hidden bg-black">
+    <section className="relative py-14 overflow-hidden bg-black md:py-20">
       {/* STRONG GOLD LIGHT – MATCHES ABOUT CTA */}
       <div
         className="
@@ -48,7 +48,7 @@ export function ServicesCTA() {
             variant="outline"
             className="border-primary/40 text-white hover:bg-primary/10 hover:text-primary bg-transparent"
           >
-            <a href="tel:+919028815714" className="flex items-center">
+            <a href="tel:+919730575714" className="flex items-center">
               <Phone className="mr-2 h-4 w-4" />
               Call Us Now
             </a>

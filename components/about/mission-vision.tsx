@@ -39,7 +39,7 @@ export function MissionVision() {
   return (
     <section
       ref={sectionRef}
-      className="relative py-24 bg-secondary overflow-hidden"
+      className="relative py-12 bg-secondary overflow-hidden md:py-16"
     >
       {/* Ambient background */}
       <div className="absolute inset-0 pointer-events-none">
@@ -50,7 +50,7 @@ export function MissionVision() {
       <div className="relative site-container">
 
         {/* ================= CORE VALUES ================= */}
-        <div data-animate className="f-reveal mb-20">
+        <div data-animate className="f-reveal mb-10 md:mb-12">
           <h3 className="text-center text-xl font-semibold mb-10">
             Our Core Values
           </h3>
@@ -89,7 +89,7 @@ export function MissionVision() {
         </div>
 
         {/* Heading */}
-        <div className="text-center max-w-3xl site-container mb-20">
+        <div className="text-center max-w-3xl site-container mb-10 md:mb-12">
           <span
             data-animate
             className="f-reveal inline-block text-primary text-sm font-medium uppercase tracking-wider mb-4"

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function HoardingAdvertisingPunePage() {
   return (
     <>
-      <main className="site-container py-16 sm:py-20">
+      <main className="site-container py-12 sm:py-16">
         {/* H1 */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">
           Hoarding Advertising in <span className="text-primary">Pune</span>

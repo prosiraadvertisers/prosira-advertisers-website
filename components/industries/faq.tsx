@@ -53,7 +53,7 @@ const faqs = [
 
 export function FAQ() {
   return (
-    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-24 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-12 text-white md:px-12 md:py-16 lg:px-20">
 
       {/* Golden Glow */}
       <div className="absolute inset-0 -z-10">
@@ -89,7 +89,7 @@ export function FAQ() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="mt-16 rounded-3xl border border-[#D4AF37]/10 bg-[#D4AF37]/5 p-6 backdrop-blur-xl"
+          className="mt-10 rounded-3xl border border-[#D4AF37]/10 bg-[#D4AF37]/5 p-6 backdrop-blur-xl"
         >
           <Accordion type="single" collapsible className="w-full">
             {faqs.map((faq, index) => (

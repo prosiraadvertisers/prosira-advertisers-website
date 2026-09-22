@@ -27,7 +27,7 @@ export function DigitalHero() {
   return (
     <section
       ref={heroRef}
-      className="relative pt-32 pb-20 bg-gradient-to-b from-secondary to-background overflow-hidden"
+      className="relative pt-20 pb-16 bg-gradient-to-b from-secondary to-background overflow-hidden md:pt-24 md:pb-20"
     >
       <div className="site-container relative z-10">
         

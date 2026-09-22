@@ -49,17 +49,17 @@ const recognitions = [
 
 export default function AwardsRecognitionPage() {
   return (
-    <main className="min-h-screen bg-background py-24">
+    <main className="bg-background py-12 md:py-16">
       <div className="site-container">
         <Link
           href="/about-prosira-advertisers"
-          className="mb-12 inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
+          className="mb-8 inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
         >
           <ArrowLeft className="h-4 w-4" />
           Back to About Us
         </Link>
 
-        <header className="mx-auto mb-20 max-w-3xl text-center">
+        <header className="mx-auto mb-12 max-w-3xl text-center">
           <span className="mb-4 inline-block text-sm font-medium uppercase tracking-wider text-primary">
             Our Achievements
           </span>
@@ -132,7 +132,7 @@ export default function AwardsRecognitionPage() {
           </div>
         </section>
 
-        <div className="mt-20 border-t border-border pt-8 text-center">
+        <div className="mt-12 border-t border-border pt-8 text-center">
           <p className="mb-4 text-muted-foreground">
             Want to create work worth recognising?
           </p>

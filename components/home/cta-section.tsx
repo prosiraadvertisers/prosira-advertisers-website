@@ -36,7 +36,7 @@ export function CTASection() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="relative py-24 overflow-hidden">
+    <section ref={sectionRef} className="relative py-14 overflow-hidden md:py-20">
       {/* Background */}
       <div className="absolute inset-0 z-0">
         <Image
@@ -101,11 +101,11 @@ export function CTASection() {
               className="border-primary/30 text-foreground hover:bg-primary/10 hover:text-primary bg-transparent"
             >
               <a
-                href="tel:+919028815714"
+                href="tel:+919730575714"
                 aria-label="Call Prosira Adtech Pvt. Ltd. Pune"
               >
                 <Phone className="mr-2 h-4 w-4" />
-                +91 90288 15714
+                +91 97305 75714
               </a>
             </Button>
           </div>

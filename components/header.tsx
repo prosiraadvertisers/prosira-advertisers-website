@@ -139,7 +139,7 @@ export function Header() {
 
           {/* Call CTA */}
           <a
-            href="tel:+919028815714"
+            href="tel:+919730575714"
             className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-all duration-300 group"
           >
             <div className="w-10 h-10 rounded-full glass-gold flex items-center justify-center group-hover:animate-glow-pulse transition-all duration-300">
@@ -148,7 +148,7 @@ export function Header() {
             <div className="flex flex-col">
               {/* <span className="text-xs text-muted-foreground">Call Us</span> */}
               <span className="font-medium text-foreground group-hover:text-primary transition-colors">
-                +91 90288 15714
+                +91 97305 75714
               </span>
             </div>
           </a>
@@ -224,7 +224,7 @@ export function Header() {
 
             <div className="pt-6 mt-6 border-t border-border/50">
               <a
-                href="tel:+919028815714"
+                href="tel:+919730575714"
                 className="flex items-center gap-4 px-6 py-4 rounded-xl bg-secondary/50"
               >
                 <div className="w-12 h-12 rounded-full glass-gold flex items-center justify-center">
@@ -233,7 +233,7 @@ export function Header() {
                 <div>
                   <div className="text-sm text-muted-foreground">Call Us Now</div>
                   <div className="text-lg font-semibold text-foreground">
-                    +91 90288 15714
+                    +91 97305 75714
                   </div>
                 </div>
               </a>

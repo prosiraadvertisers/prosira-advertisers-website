@@ -95,7 +95,7 @@ export default function TraditionalMediaPortfolio() {
     <div className="min-h-screen bg-gradient-to-b from-black via-gray-900 to-black">
 
       {/* HERO */}
-      <section className="relative py-20 lg:py-24">
+      <section className="relative py-14 lg:py-20">
         <div className="site-container">
           <Link href="/work" className="inline-flex items-center gap-2 text-gray-400 hover:text-primary transition-colors mb-8">
             ← Back to Our Work

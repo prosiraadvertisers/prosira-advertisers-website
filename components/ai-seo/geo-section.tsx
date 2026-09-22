@@ -5,7 +5,7 @@ import { Globe2, Bot, Sparkles } from "lucide-react";
 
 export function GEOSection() {
   return (
-    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-24 text-white md:px-12 lg:px-20">
+    <section className="relative overflow-hidden border-t border-white/10 bg-black px-6 py-12 text-white md:px-12 md:py-16 lg:px-20">
 
       {/* Background Glow */}
       <div className="absolute inset-0 -z-10">
@@ -43,7 +43,7 @@ export function GEOSection() {
         </motion.div>
 
         {/* Cards */}
-        <div className="mt-16 grid gap-6 md:grid-cols-3">
+        <div className="mt-10 grid gap-6 md:grid-cols-3">
 
           {[
             {

@@ -85,7 +85,7 @@ export function StatsSection() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="py-24 relative overflow-hidden">
+    <section ref={sectionRef} className="py-12 relative overflow-hidden md:py-16">
       {/* BACKGROUND */}
       <div className="absolute inset-0 pointer-events-none bg-gradient-to-r from-background via-secondary to-background" />
       <div className="absolute pointer-events-none inset-0 bg-[linear-gradient(rgba(212,175,55,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(212,175,55,0.03)_1px,transparent_1px)] bg-[size:50px_50px]" />

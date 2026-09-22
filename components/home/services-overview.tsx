@@ -181,13 +181,13 @@ export function ServicesOverview() {
   return (
     <section
       ref={sectionRef}
-      className="py-32 bg-background relative overflow-hidden"
+      className="py-16 bg-background relative overflow-hidden md:py-20"
     >
       <div className="absolute top-0 left-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2" />
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl translate-x-1/2 translate-y-1/2" />
 
       <div className="site-container relative">
-        <div className="text-center max-w-3xl site-container mb-20">
+        <div className="text-center max-w-3xl site-container mb-10 md:mb-12">
           <span
             className="inline-flex items-center gap-2 px-6 py-2 rounded-full glass-gold text-primary text-sm font-medium mb-6"
             style={{
@@ -246,7 +246,7 @@ export function ServicesOverview() {
         </div>
 
         <div
-          className="text-center mt-16"
+          className="text-center mt-10"
           style={{
             opacity: isVisible ? 1 : 0,
             transform: isVisible

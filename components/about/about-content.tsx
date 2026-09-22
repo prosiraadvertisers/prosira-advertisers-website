@@ -49,17 +49,17 @@ export function AboutContent() {
   return (
     <section
       ref={sectionRef}
-      className="relative py-24 bg-background overflow-hidden"
+      className="relative py-12 bg-background overflow-hidden md:py-16"
     >
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-40 left-10 w-64 h-64 bg-primary/5 rounded-full blur-3xl float-slow" />
         <div className="absolute bottom-32 right-10 w-80 h-80 bg-primary/10 rounded-full blur-3xl float-slow" />
       </div>
 
-      <div className="relative site-container space-y-20">
+      <div className="relative site-container space-y-12 md:space-y-16">
 
         {/* ===== TOP ROW ===== */}
-        <div className="grid lg:grid-cols-2 gap-20 items-start">
+        <div className="grid lg:grid-cols-2 gap-10 md:gap-12 items-start">
 
           {/* LEFT SIDE (Who We Are + What We Do) */}
           <div data-animate className="f-reveal lg:order-1">

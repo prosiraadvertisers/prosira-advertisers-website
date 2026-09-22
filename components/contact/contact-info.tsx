@@ -18,8 +18,8 @@ const contactDetails = [
   {
     icon: Phone,
     label: "Call Us",
-    value: "+91 90288 15714",
-    href: "tel:+919028815714",
+    value: "+91 97305 75714",
+    href: "tel:+919730575714",
     description: "Mon–Sat, 9:00 AM – 7:00 PM",
   },
   {
@@ -90,7 +90,7 @@ export function ContactInfo() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="space-y-12">
+    <section ref={sectionRef} className="space-y-8">
       {/* HEADER */}
       <div data-animate className="space-y-3">
         <h2 className="text-3xl md:text-4xl font-bold">
@@ -208,7 +208,7 @@ export function ContactInfo() {
     "
   >
     <a
-      href="https://wa.me/919028815714?text=Hi,%20I%20am%20interested%20in%20your%20advertising%20services"
+      href="https://wa.me/919730575714?text=Hi,%20I%20am%20interested%20in%20your%20advertising%20services"
       target="_blank"
       rel="noopener noreferrer"
     >

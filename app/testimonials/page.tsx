@@ -45,11 +45,11 @@ const testimonials = [
 
 export default function TestimonialsPage() {
   return (
-    <section className="bg-black text-white py-20">
+    <section className="bg-black text-white py-14 md:py-20">
       <div className="site-container">
         
         {/* Heading */}
-        <div className="text-center mb-16">
+        <div className="text-center mb-10 md:mb-12">
           <h1 className="text-4xl font-bold mb-4">
             What Our Clients Say
           </h1>

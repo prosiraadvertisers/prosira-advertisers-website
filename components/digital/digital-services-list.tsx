@@ -403,7 +403,7 @@ export function DigitalServicesList() {
   };
 
   return (
-    <section ref={sectionRef} className="py-24 bg-background">
+    <section ref={sectionRef} className="py-12 bg-background md:py-16">
       <div className="site-container">
         <div className="relative">
           {/* Scroll Container */}

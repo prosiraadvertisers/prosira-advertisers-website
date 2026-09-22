@@ -86,7 +86,7 @@ export function EventsHero() {
   return (
     <section
       ref={heroRef}
-      className="relative pt-32 pb-24 bg-gradient-to-b from-secondary to-background overflow-hidden"
+      className="relative pt-20 pb-16 bg-gradient-to-b from-secondary to-background overflow-hidden md:pt-24 md:pb-20"
     >
       {/* AMBIENT BLOBS */}
       <div className="absolute inset-0 pointer-events-none">

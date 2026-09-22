@@ -29,7 +29,7 @@ export function AboutCTA() {
   return (
     <section
       ref={sectionRef}
-      className="relative py-24 overflow-hidden bg-linear-to-r from-primary/10 via-background to-primary/10"
+      className="relative py-14 overflow-hidden bg-linear-to-r from-primary/10 via-background to-primary/10 md:py-20"
     >
       {/* Spotlight glow */}
       <div className="absolute inset-0 pointer-events-none">

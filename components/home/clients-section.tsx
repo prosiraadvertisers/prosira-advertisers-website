@@ -52,7 +52,7 @@ export function ClientsSection() {
   }, []);
 
   return (
-    <section className="py-20 bg-background overflow-hidden">
+    <section className="py-12 bg-background overflow-hidden md:py-16">
       <div className="site-container">
         {/* Heading */}
         <div className="text-center mb-12">

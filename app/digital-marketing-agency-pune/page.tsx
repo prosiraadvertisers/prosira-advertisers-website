@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function DigitalMarketingPunePage() {
   return (
     <>
-      <main className="site-container py-16">
+      <main className="site-container py-12 md:py-16">
         <h1 className="text-3xl md:text-5xl font-bold mb-6">
           Digital Marketing Agency in <span className="text-primary">Pune</span>
         </h1>

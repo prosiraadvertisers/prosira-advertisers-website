@@ -30,11 +30,11 @@ const steps = [
 
 export default function DigitalProcess() {
   return (
-    <section className="bg-secondary py-28 relative overflow-hidden">
+    <section className="bg-secondary py-14 relative overflow-hidden md:py-20">
       <div className="max-w-7xl mx-auto px-6">
         
         {/* Heading */}
-        <div className="text-center mb-20">
+        <div className="text-center mb-10 md:mb-12">
           <h2 className="text-4xl md:text-5xl font-bold">
             Our <span className="text-primary font-serif">Digital Process</span>
           </h2>

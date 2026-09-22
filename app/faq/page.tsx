@@ -77,8 +77,8 @@ export default function FAQPage() {
 
 
       <main className="bg-black text-white min-h-screen">
-        <section className="max-w-4xl mx-auto px-6 py-24">
-          <div className="mb-16">
+        <section className="max-w-4xl mx-auto px-6 py-12 md:py-16">
+          <div className="mb-10 md:mb-12">
             <p className="text-[#D4AF37] uppercase tracking-[0.2em] mb-4">
                   Frequently Asked Questions
             </p>

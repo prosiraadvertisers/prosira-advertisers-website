@@ -29,7 +29,7 @@ export default function PremiumChatBot() {
 
   useEffect(() => {
   if (step === 5) {
-    const url = `https://wa.me/919028815714?text=${encodeURIComponent(
+    const url = `https://wa.me/919730575714?text=${encodeURIComponent(
       `Hi Prosira,
 
 New Lead 🚀
@@ -146,7 +146,7 @@ Phone: ${data.phone}`
     </p>
 
     <a
-      href={`https://wa.me/919028815714?text=${encodeURIComponent(
+      href={`https://wa.me/919730575714?text=${encodeURIComponent(
         `Hi Prosira,
 
 I am interested in your services.

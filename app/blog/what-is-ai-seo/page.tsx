@@ -41,7 +41,7 @@ const articleSchema = {
 
 export default function AISEOArticlePage() {
   return (
-    <section className="site-container py-16">
+    <section className="site-container py-12 md:py-16">
 
       <Script
         id="article-schema"
@@ -52,7 +52,7 @@ export default function AISEOArticlePage() {
       />
 
       {/* HERO */}
-      <div className="max-w-4xl mb-16">
+      <div className="max-w-4xl mb-10 md:mb-12">
 
         <div className="inline-flex items-center rounded-full border border-primary/20 bg-primary/5 px-4 py-2 text-xs uppercase tracking-widest text-primary mb-6">
           AI SEO

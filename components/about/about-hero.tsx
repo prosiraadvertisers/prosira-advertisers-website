@@ -80,7 +80,7 @@ export function AboutHero() {
   return (
     <section
       ref={heroRef}
-      className="relative pt-32 pb-24 bg-gradient-to-b from-secondary to-background overflow-hidden"
+      className="relative pt-20 pb-16 bg-gradient-to-b from-secondary to-background overflow-hidden md:pt-24 md:pb-20"
     >
       {/* AMBIENT BLOBS */}
       <div className="absolute inset-0 pointer-events-none">
@@ -99,7 +99,7 @@ export function AboutHero() {
       <div className="relative z-10 site-container">
         <nav
           data-animate
-          className="f-reveal flex items-center gap-2 text-sm text-muted-foreground mb-8"
+          className="f-reveal flex items-center gap-2 text-sm text-muted-foreground mb-5"
           aria-label="Breadcrumb"
         >
           <Link href="/" className="hover:text-primary transition-colors">

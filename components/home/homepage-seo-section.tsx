@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export function HomepageSEOSection() {
   return (
-    <section className="bg-background py-24 border-t border-border">
+    <section className="bg-background py-12 border-t border-border md:py-16">
       <div className="site-container max-w-4xl">
 
         {/* SECTION HEADING */}
