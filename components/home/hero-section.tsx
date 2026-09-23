@@ -67,20 +67,20 @@ export function HeroSection() {
   const socialLinks = [
     {
       icon: Facebook,
-      url: "https://www.facebook.com/share/1DnoEvbjBx/",
+      url: "https://www.facebook.com/prosiraadtechpvtltd",
     },
     {
       icon: Youtube,
       url: "https://www.youtube.com/@Prosira",
-    },
+    },  
     {
       icon: Linkedin,
       url: "https://www.linkedin.com/company/prosiraadvertisers/",
     },
     {
       icon: Instagram,
-      url: "https://www.instagram.com/prosira_advertisers?igsh=MXc3bjkwb2h3aThq",
-    },
+      url: "https://www.instagram.com/prosira_adtech_pvt_ltd/",
+    },  
   ];
 
   useEffect(() => {

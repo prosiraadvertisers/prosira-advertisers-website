@@ -116,8 +116,6 @@ export default function RootLayout({
     "Prosira Adtech Pvt. Ltd. is an AI-first digital marketing and advertising agency offering AI SEO, GEO, AEO, SEO, Google Ads, branding, website development and performance marketing services.",
 
   sameAs: [
-    "https://www.instagram.com/prosira_advertisers",
-    "https://www.linkedin.com/company/prosiraadvertisers",
     "https://www.facebook.com/share/1DnoEvbjBx/",
   ],
 };
@@ -232,8 +230,6 @@ const serviceSchema = {
                 areaServed: "Maharashtra",
                 openingHours: "Mo-Sa 10:00-18:00",
                 sameAs: [
-                  "https://www.instagram.com/prosira_advertisers",
-                  "https://www.linkedin.com/company/prosiraadvertisers",
                   "https://www.facebook.com/share/1DnoEvbjBx/",
                 ],
               }),

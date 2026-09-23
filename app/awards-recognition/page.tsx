@@ -52,7 +52,7 @@ export default function AwardsRecognitionPage() {
     <main className="bg-background py-12 md:py-16">
       <div className="site-container">
         <Link
-          href="/about-prosira-advertisers"
+          href="/about-prosira-adtech"
           className="mb-8 inline-flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
         >
           <ArrowLeft className="h-4 w-4" />

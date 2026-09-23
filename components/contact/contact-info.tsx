@@ -52,16 +52,6 @@ const socialLinks = [
     href: "https://www.facebook.com/share/1DnoEvbjBx/",
     icon: Facebook,
   },
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/prosira_advertisers",
-    icon: Instagram,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/company/prosiraadvertisers/",
-    icon: Linkedin,
-  },
 ];
 
 export function ContactInfo() {

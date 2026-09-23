@@ -20,7 +20,7 @@ const footerLinks = {
     { name: "Digital Portfolio", href: "/digital" },
     { name: "Event Portfolio", href: "/event-expo" },
     { name: "AI SEO", href: "/ai-seo-services" },
-{ name: "Download Portfolio", href: "/portfolio/prosira-advertisers-company-profile.pdf", download: true },
+  { name: "Download Portfolio", href: "/portfolio/prosira-adtech-company-profile.pdf", download: true },
   ],
   company: [
     { name: "About Us", href: "/about-prosira-adtech" },

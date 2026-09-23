@@ -65,7 +65,7 @@ export default function TermsPage() {
           <p>
             All content, designs, text, graphics, logos, trademarks, and
             materials on this website are the intellectual property of Prosira
-            Advertisers unless otherwise stated. Unauthorized use, reproduction,
+            Adtech Pvt. Ltd. unless otherwise stated. Unauthorized use, reproduction,
             or distribution is strictly prohibited.
           </p>
         </section>

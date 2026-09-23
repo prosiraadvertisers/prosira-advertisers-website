@@ -4,6 +4,16 @@ const nextConfig = {
   poweredByHeader: false,
   compress: true,
 
+  async redirects() {
+    return [
+      {
+        source: "/about-prosira-advertisers",
+        destination: "/about-prosira-adtech",
+        permanent: true,
+      },
+    ];
+  },
+
   typescript: {
     ignoreBuildErrors: false, // safer production
   },
