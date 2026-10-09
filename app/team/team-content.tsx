@@ -77,15 +77,7 @@ const teamMembers = [
       "Vatan develops modern, responsive, and conversion-optimized websites using Next.js and advanced frontend technologies. He ensures technical SEO implementation, GA4 integration, performance optimization, and scalable architecture for digital campaigns. His work enables brands to convert traffic into measurable business results.",
     linkedin: "https://www.linkedin.com/in/vatanwaikar/",
   },
-  {
-    name: "Pragati Wagaskar",
-    role: "Content creator ",
-    image: "/team/pragati.png",
-    bio: "Content specialist supporting social media strategy, content scheduling, and audience engagement.",
-    expandedBio:
-      "Pragati assists in content creation, social media management, and community engagement. She supports campaign execution, trend analysis, and platform optimization to enhance brand interaction and digital reach.",
-      linkedin: "https://www.linkedin.com/in/pragati-wagaskar/",
-  },
+  
   {
     name: "Shourya Shinde",
     role: "Social Media Executive",
@@ -95,6 +87,24 @@ const teamMembers = [
       "Shourya assists in content planning, social media management, and community engagement. She supports campaign execution, trend analysis, and platform optimization to enhance brand interaction and digital reach.",
     linkedin: "https://www.linkedin.com/in/11shourya-shinde/",
   },
+  {
+  name: "Mandar Kadu",
+  role: "Graphic Designer",
+  image: "/team/mandar.webp",
+  bio: "Creating impactful visual designs that strengthen brand identity and elevate marketing campaigns.",
+  expandedBio:
+    "Mandar specializes in graphic design, brand identity, social media creatives, advertising visuals, and marketing collaterals. He transforms creative ideas into visually engaging designs that communicate brand messages effectively, maintain visual consistency, and capture audience attention across digital and print platforms.",
+    linkedin: "https://www.linkedin.com/in/mandar-kadu-deshmukh-b54581157/",
+},
+  {
+  name: "Yojan Bendale",
+  role: "Digital Marketing Executive",
+  image: "/team/yojan.webp",
+  bio: "Driving digital growth through strategic marketing, engaging content, and data-driven campaigns.",
+  expandedBio:
+    "Yojan specializes in digital marketing strategies, social media management, campaign planning, audience engagement, and performance optimization. He focuses on building brand visibility, reaching the right audience, and driving measurable results through creative marketing initiatives and data-driven insights.",
+    linkedin: " https://www.linkedin.com/in/yojanbendale",
+},
   {
     name: "Sayaji Teji",  
     role: "Activation Head",
